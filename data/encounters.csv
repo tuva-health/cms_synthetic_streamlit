@@ -1,0 +1,2546 @@
+DATA_SOURCE,ENCOUNTER_GROUP,ENCOUNTER_TYPE,YEAR_MONTH,CLAIM_COUNT
+cms_synthetic,inpatient,acute inpatient,201502,1
+cms_synthetic,inpatient,acute inpatient,201503,34
+cms_synthetic,inpatient,acute inpatient,201504,31
+cms_synthetic,inpatient,acute inpatient,201505,31
+cms_synthetic,inpatient,acute inpatient,201506,23
+cms_synthetic,inpatient,acute inpatient,201507,22
+cms_synthetic,inpatient,acute inpatient,201508,37
+cms_synthetic,inpatient,acute inpatient,201509,37
+cms_synthetic,inpatient,acute inpatient,201510,46
+cms_synthetic,inpatient,acute inpatient,201511,45
+cms_synthetic,inpatient,acute inpatient,201512,32
+cms_synthetic,inpatient,acute inpatient,201601,28
+cms_synthetic,inpatient,acute inpatient,201602,36
+cms_synthetic,inpatient,acute inpatient,201603,35
+cms_synthetic,inpatient,acute inpatient,201604,26
+cms_synthetic,inpatient,acute inpatient,201605,34
+cms_synthetic,inpatient,acute inpatient,201606,39
+cms_synthetic,inpatient,acute inpatient,201607,41
+cms_synthetic,inpatient,acute inpatient,201608,38
+cms_synthetic,inpatient,acute inpatient,201609,36
+cms_synthetic,inpatient,acute inpatient,201610,31
+cms_synthetic,inpatient,acute inpatient,201611,34
+cms_synthetic,inpatient,acute inpatient,201612,47
+cms_synthetic,inpatient,acute inpatient,201701,39
+cms_synthetic,inpatient,acute inpatient,201702,23
+cms_synthetic,inpatient,acute inpatient,201703,35
+cms_synthetic,inpatient,acute inpatient,201704,27
+cms_synthetic,inpatient,acute inpatient,201705,59
+cms_synthetic,inpatient,acute inpatient,201706,44
+cms_synthetic,inpatient,acute inpatient,201707,27
+cms_synthetic,inpatient,acute inpatient,201708,39
+cms_synthetic,inpatient,acute inpatient,201709,39
+cms_synthetic,inpatient,acute inpatient,201710,37
+cms_synthetic,inpatient,acute inpatient,201711,34
+cms_synthetic,inpatient,acute inpatient,201712,45
+cms_synthetic,inpatient,acute inpatient,201801,28
+cms_synthetic,inpatient,acute inpatient,201802,41
+cms_synthetic,inpatient,acute inpatient,201803,50
+cms_synthetic,inpatient,acute inpatient,201804,45
+cms_synthetic,inpatient,acute inpatient,201805,37
+cms_synthetic,inpatient,acute inpatient,201806,48
+cms_synthetic,inpatient,acute inpatient,201807,55
+cms_synthetic,inpatient,acute inpatient,201808,63
+cms_synthetic,inpatient,acute inpatient,201809,23
+cms_synthetic,inpatient,acute inpatient,201810,37
+cms_synthetic,inpatient,acute inpatient,201811,34
+cms_synthetic,inpatient,acute inpatient,201812,40
+cms_synthetic,inpatient,acute inpatient,201901,24
+cms_synthetic,inpatient,acute inpatient,201902,26
+cms_synthetic,inpatient,acute inpatient,201903,55
+cms_synthetic,inpatient,acute inpatient,201904,32
+cms_synthetic,inpatient,acute inpatient,201905,54
+cms_synthetic,inpatient,acute inpatient,201906,47
+cms_synthetic,inpatient,acute inpatient,201907,52
+cms_synthetic,inpatient,acute inpatient,201908,54
+cms_synthetic,inpatient,acute inpatient,201909,51
+cms_synthetic,inpatient,acute inpatient,201910,36
+cms_synthetic,inpatient,acute inpatient,201911,44
+cms_synthetic,inpatient,acute inpatient,201912,44
+cms_synthetic,inpatient,acute inpatient,202001,58
+cms_synthetic,inpatient,acute inpatient,202002,48
+cms_synthetic,inpatient,acute inpatient,202003,37
+cms_synthetic,inpatient,acute inpatient,202004,55
+cms_synthetic,inpatient,acute inpatient,202005,70
+cms_synthetic,inpatient,acute inpatient,202006,59
+cms_synthetic,inpatient,acute inpatient,202007,74
+cms_synthetic,inpatient,acute inpatient,202008,57
+cms_synthetic,inpatient,acute inpatient,202009,67
+cms_synthetic,inpatient,acute inpatient,202010,73
+cms_synthetic,inpatient,acute inpatient,202011,85
+cms_synthetic,inpatient,acute inpatient,202012,98
+cms_synthetic,inpatient,acute inpatient,202101,78
+cms_synthetic,inpatient,acute inpatient,202102,59
+cms_synthetic,inpatient,acute inpatient,202103,61
+cms_synthetic,inpatient,acute inpatient,202104,65
+cms_synthetic,inpatient,acute inpatient,202105,56
+cms_synthetic,inpatient,acute inpatient,202106,68
+cms_synthetic,inpatient,acute inpatient,202107,58
+cms_synthetic,inpatient,acute inpatient,202108,68
+cms_synthetic,inpatient,acute inpatient,202109,60
+cms_synthetic,inpatient,acute inpatient,202110,65
+cms_synthetic,inpatient,acute inpatient,202111,50
+cms_synthetic,inpatient,acute inpatient,202112,53
+cms_synthetic,inpatient,acute inpatient,202201,56
+cms_synthetic,inpatient,acute inpatient,202202,34
+cms_synthetic,inpatient,acute inpatient,202203,67
+cms_synthetic,inpatient,acute inpatient,202204,69
+cms_synthetic,inpatient,acute inpatient,202205,58
+cms_synthetic,inpatient,acute inpatient,202206,75
+cms_synthetic,inpatient,acute inpatient,202207,70
+cms_synthetic,inpatient,acute inpatient,202208,54
+cms_synthetic,inpatient,acute inpatient,202209,76
+cms_synthetic,inpatient,acute inpatient,202210,63
+cms_synthetic,inpatient,acute inpatient,202211,72
+cms_synthetic,inpatient,acute inpatient,202212,67
+cms_synthetic,inpatient,acute inpatient,202301,64
+cms_synthetic,inpatient,acute inpatient,202302,63
+cms_synthetic,inpatient,acute inpatient,202303,1
+cms_synthetic,inpatient,inpatient psych,201503,4
+cms_synthetic,inpatient,inpatient psych,201504,3
+cms_synthetic,inpatient,inpatient psych,201505,2
+cms_synthetic,inpatient,inpatient psych,201506,1
+cms_synthetic,inpatient,inpatient psych,201507,1
+cms_synthetic,inpatient,inpatient psych,201508,5
+cms_synthetic,inpatient,inpatient psych,201509,5
+cms_synthetic,inpatient,inpatient psych,201510,1
+cms_synthetic,inpatient,inpatient psych,201511,1
+cms_synthetic,inpatient,inpatient psych,201512,3
+cms_synthetic,inpatient,inpatient psych,201601,2
+cms_synthetic,inpatient,inpatient psych,201602,3
+cms_synthetic,inpatient,inpatient psych,201603,1
+cms_synthetic,inpatient,inpatient psych,201604,2
+cms_synthetic,inpatient,inpatient psych,201605,3
+cms_synthetic,inpatient,inpatient psych,201607,4
+cms_synthetic,inpatient,inpatient psych,201608,3
+cms_synthetic,inpatient,inpatient psych,201609,3
+cms_synthetic,inpatient,inpatient psych,201610,1
+cms_synthetic,inpatient,inpatient psych,201611,3
+cms_synthetic,inpatient,inpatient psych,201612,2
+cms_synthetic,inpatient,inpatient psych,201702,1
+cms_synthetic,inpatient,inpatient psych,201704,1
+cms_synthetic,inpatient,inpatient psych,201705,1
+cms_synthetic,inpatient,inpatient psych,201706,2
+cms_synthetic,inpatient,inpatient psych,201707,2
+cms_synthetic,inpatient,inpatient psych,201708,2
+cms_synthetic,inpatient,inpatient psych,201709,1
+cms_synthetic,inpatient,inpatient psych,201710,2
+cms_synthetic,inpatient,inpatient psych,201712,4
+cms_synthetic,inpatient,inpatient psych,201801,5
+cms_synthetic,inpatient,inpatient psych,201802,3
+cms_synthetic,inpatient,inpatient psych,201803,5
+cms_synthetic,inpatient,inpatient psych,201804,1
+cms_synthetic,inpatient,inpatient psych,201806,1
+cms_synthetic,inpatient,inpatient psych,201807,2
+cms_synthetic,inpatient,inpatient psych,201808,1
+cms_synthetic,inpatient,inpatient psych,201809,1
+cms_synthetic,inpatient,inpatient psych,201810,1
+cms_synthetic,inpatient,inpatient psych,201812,2
+cms_synthetic,inpatient,inpatient psych,201901,3
+cms_synthetic,inpatient,inpatient psych,201904,1
+cms_synthetic,inpatient,inpatient psych,201905,2
+cms_synthetic,inpatient,inpatient psych,201906,1
+cms_synthetic,inpatient,inpatient psych,201907,4
+cms_synthetic,inpatient,inpatient psych,201908,4
+cms_synthetic,inpatient,inpatient psych,201909,2
+cms_synthetic,inpatient,inpatient psych,201911,1
+cms_synthetic,inpatient,inpatient psych,201912,2
+cms_synthetic,inpatient,inpatient psych,202001,2
+cms_synthetic,inpatient,inpatient psych,202002,1
+cms_synthetic,inpatient,inpatient psych,202003,3
+cms_synthetic,inpatient,inpatient psych,202004,1
+cms_synthetic,inpatient,inpatient psych,202005,3
+cms_synthetic,inpatient,inpatient psych,202006,1
+cms_synthetic,inpatient,inpatient psych,202008,4
+cms_synthetic,inpatient,inpatient psych,202010,2
+cms_synthetic,inpatient,inpatient psych,202011,1
+cms_synthetic,inpatient,inpatient psych,202012,1
+cms_synthetic,inpatient,inpatient psych,202101,1
+cms_synthetic,inpatient,inpatient psych,202102,3
+cms_synthetic,inpatient,inpatient psych,202103,2
+cms_synthetic,inpatient,inpatient psych,202104,4
+cms_synthetic,inpatient,inpatient psych,202105,4
+cms_synthetic,inpatient,inpatient psych,202106,3
+cms_synthetic,inpatient,inpatient psych,202107,2
+cms_synthetic,inpatient,inpatient psych,202108,3
+cms_synthetic,inpatient,inpatient psych,202109,2
+cms_synthetic,inpatient,inpatient psych,202110,1
+cms_synthetic,inpatient,inpatient psych,202111,3
+cms_synthetic,inpatient,inpatient psych,202112,1
+cms_synthetic,inpatient,inpatient psych,202201,4
+cms_synthetic,inpatient,inpatient psych,202202,1
+cms_synthetic,inpatient,inpatient psych,202203,2
+cms_synthetic,inpatient,inpatient psych,202204,3
+cms_synthetic,inpatient,inpatient psych,202205,1
+cms_synthetic,inpatient,inpatient psych,202207,3
+cms_synthetic,inpatient,inpatient psych,202208,5
+cms_synthetic,inpatient,inpatient psych,202209,3
+cms_synthetic,inpatient,inpatient psych,202210,1
+cms_synthetic,inpatient,inpatient psych,202211,4
+cms_synthetic,inpatient,inpatient psych,202212,1
+cms_synthetic,inpatient,inpatient psych,202301,1
+cms_synthetic,inpatient,inpatient psych,202302,2
+cms_synthetic,inpatient,inpatient rehabilitation,201503,1
+cms_synthetic,inpatient,inpatient rehabilitation,201504,2
+cms_synthetic,inpatient,inpatient rehabilitation,201507,2
+cms_synthetic,inpatient,inpatient rehabilitation,201508,2
+cms_synthetic,inpatient,inpatient rehabilitation,201509,1
+cms_synthetic,inpatient,inpatient rehabilitation,201510,2
+cms_synthetic,inpatient,inpatient rehabilitation,201511,2
+cms_synthetic,inpatient,inpatient rehabilitation,201512,2
+cms_synthetic,inpatient,inpatient rehabilitation,201601,1
+cms_synthetic,inpatient,inpatient rehabilitation,201603,2
+cms_synthetic,inpatient,inpatient rehabilitation,201605,1
+cms_synthetic,inpatient,inpatient rehabilitation,201608,1
+cms_synthetic,inpatient,inpatient rehabilitation,201610,3
+cms_synthetic,inpatient,inpatient rehabilitation,201612,2
+cms_synthetic,inpatient,inpatient rehabilitation,201701,2
+cms_synthetic,inpatient,inpatient rehabilitation,201702,1
+cms_synthetic,inpatient,inpatient rehabilitation,201703,2
+cms_synthetic,inpatient,inpatient rehabilitation,201704,1
+cms_synthetic,inpatient,inpatient rehabilitation,201705,3
+cms_synthetic,inpatient,inpatient rehabilitation,201706,1
+cms_synthetic,inpatient,inpatient rehabilitation,201707,1
+cms_synthetic,inpatient,inpatient rehabilitation,201708,4
+cms_synthetic,inpatient,inpatient rehabilitation,201709,2
+cms_synthetic,inpatient,inpatient rehabilitation,201710,2
+cms_synthetic,inpatient,inpatient rehabilitation,201711,1
+cms_synthetic,inpatient,inpatient rehabilitation,201712,1
+cms_synthetic,inpatient,inpatient rehabilitation,201801,3
+cms_synthetic,inpatient,inpatient rehabilitation,201802,1
+cms_synthetic,inpatient,inpatient rehabilitation,201803,1
+cms_synthetic,inpatient,inpatient rehabilitation,201805,2
+cms_synthetic,inpatient,inpatient rehabilitation,201806,2
+cms_synthetic,inpatient,inpatient rehabilitation,201807,1
+cms_synthetic,inpatient,inpatient rehabilitation,201808,3
+cms_synthetic,inpatient,inpatient rehabilitation,201809,3
+cms_synthetic,inpatient,inpatient rehabilitation,201810,3
+cms_synthetic,inpatient,inpatient rehabilitation,201811,1
+cms_synthetic,inpatient,inpatient rehabilitation,201812,1
+cms_synthetic,inpatient,inpatient rehabilitation,201901,1
+cms_synthetic,inpatient,inpatient rehabilitation,201902,2
+cms_synthetic,inpatient,inpatient rehabilitation,201903,1
+cms_synthetic,inpatient,inpatient rehabilitation,201905,3
+cms_synthetic,inpatient,inpatient rehabilitation,201906,1
+cms_synthetic,inpatient,inpatient rehabilitation,201907,3
+cms_synthetic,inpatient,inpatient rehabilitation,201908,3
+cms_synthetic,inpatient,inpatient rehabilitation,201909,1
+cms_synthetic,inpatient,inpatient rehabilitation,201910,1
+cms_synthetic,inpatient,inpatient rehabilitation,201911,1
+cms_synthetic,inpatient,inpatient rehabilitation,201912,2
+cms_synthetic,inpatient,inpatient rehabilitation,202002,2
+cms_synthetic,inpatient,inpatient rehabilitation,202004,2
+cms_synthetic,inpatient,inpatient rehabilitation,202005,1
+cms_synthetic,inpatient,inpatient rehabilitation,202006,2
+cms_synthetic,inpatient,inpatient rehabilitation,202007,2
+cms_synthetic,inpatient,inpatient rehabilitation,202008,3
+cms_synthetic,inpatient,inpatient rehabilitation,202009,1
+cms_synthetic,inpatient,inpatient rehabilitation,202010,1
+cms_synthetic,inpatient,inpatient rehabilitation,202011,2
+cms_synthetic,inpatient,inpatient rehabilitation,202101,1
+cms_synthetic,inpatient,inpatient rehabilitation,202103,2
+cms_synthetic,inpatient,inpatient rehabilitation,202104,2
+cms_synthetic,inpatient,inpatient rehabilitation,202105,2
+cms_synthetic,inpatient,inpatient rehabilitation,202106,2
+cms_synthetic,inpatient,inpatient rehabilitation,202107,6
+cms_synthetic,inpatient,inpatient rehabilitation,202108,1
+cms_synthetic,inpatient,inpatient rehabilitation,202109,3
+cms_synthetic,inpatient,inpatient rehabilitation,202110,3
+cms_synthetic,inpatient,inpatient rehabilitation,202111,2
+cms_synthetic,inpatient,inpatient rehabilitation,202112,1
+cms_synthetic,inpatient,inpatient rehabilitation,202201,2
+cms_synthetic,inpatient,inpatient rehabilitation,202202,1
+cms_synthetic,inpatient,inpatient rehabilitation,202204,1
+cms_synthetic,inpatient,inpatient rehabilitation,202205,3
+cms_synthetic,inpatient,inpatient rehabilitation,202206,5
+cms_synthetic,inpatient,inpatient rehabilitation,202207,2
+cms_synthetic,inpatient,inpatient rehabilitation,202208,3
+cms_synthetic,inpatient,inpatient rehabilitation,202210,4
+cms_synthetic,inpatient,inpatient rehabilitation,202211,4
+cms_synthetic,inpatient,inpatient rehabilitation,202212,6
+cms_synthetic,inpatient,inpatient rehabilitation,202301,1
+cms_synthetic,inpatient,inpatient skilled nursing,201501,2
+cms_synthetic,inpatient,inpatient skilled nursing,201502,3
+cms_synthetic,inpatient,inpatient skilled nursing,201503,31
+cms_synthetic,inpatient,inpatient skilled nursing,201504,31
+cms_synthetic,inpatient,inpatient skilled nursing,201505,23
+cms_synthetic,inpatient,inpatient skilled nursing,201506,29
+cms_synthetic,inpatient,inpatient skilled nursing,201507,34
+cms_synthetic,inpatient,inpatient skilled nursing,201508,35
+cms_synthetic,inpatient,inpatient skilled nursing,201509,17
+cms_synthetic,inpatient,inpatient skilled nursing,201510,34
+cms_synthetic,inpatient,inpatient skilled nursing,201511,38
+cms_synthetic,inpatient,inpatient skilled nursing,201512,20
+cms_synthetic,inpatient,inpatient skilled nursing,201601,38
+cms_synthetic,inpatient,inpatient skilled nursing,201602,28
+cms_synthetic,inpatient,inpatient skilled nursing,201603,26
+cms_synthetic,inpatient,inpatient skilled nursing,201604,38
+cms_synthetic,inpatient,inpatient skilled nursing,201605,27
+cms_synthetic,inpatient,inpatient skilled nursing,201606,24
+cms_synthetic,inpatient,inpatient skilled nursing,201607,22
+cms_synthetic,inpatient,inpatient skilled nursing,201608,15
+cms_synthetic,inpatient,inpatient skilled nursing,201609,31
+cms_synthetic,inpatient,inpatient skilled nursing,201610,31
+cms_synthetic,inpatient,inpatient skilled nursing,201611,33
+cms_synthetic,inpatient,inpatient skilled nursing,201612,32
+cms_synthetic,inpatient,inpatient skilled nursing,201701,28
+cms_synthetic,inpatient,inpatient skilled nursing,201702,35
+cms_synthetic,inpatient,inpatient skilled nursing,201703,27
+cms_synthetic,inpatient,inpatient skilled nursing,201704,20
+cms_synthetic,inpatient,inpatient skilled nursing,201705,33
+cms_synthetic,inpatient,inpatient skilled nursing,201706,31
+cms_synthetic,inpatient,inpatient skilled nursing,201707,43
+cms_synthetic,inpatient,inpatient skilled nursing,201708,38
+cms_synthetic,inpatient,inpatient skilled nursing,201709,26
+cms_synthetic,inpatient,inpatient skilled nursing,201710,25
+cms_synthetic,inpatient,inpatient skilled nursing,201711,21
+cms_synthetic,inpatient,inpatient skilled nursing,201712,32
+cms_synthetic,inpatient,inpatient skilled nursing,201801,33
+cms_synthetic,inpatient,inpatient skilled nursing,201802,23
+cms_synthetic,inpatient,inpatient skilled nursing,201803,39
+cms_synthetic,inpatient,inpatient skilled nursing,201804,33
+cms_synthetic,inpatient,inpatient skilled nursing,201805,23
+cms_synthetic,inpatient,inpatient skilled nursing,201806,23
+cms_synthetic,inpatient,inpatient skilled nursing,201807,27
+cms_synthetic,inpatient,inpatient skilled nursing,201808,32
+cms_synthetic,inpatient,inpatient skilled nursing,201809,25
+cms_synthetic,inpatient,inpatient skilled nursing,201810,34
+cms_synthetic,inpatient,inpatient skilled nursing,201811,36
+cms_synthetic,inpatient,inpatient skilled nursing,201812,57
+cms_synthetic,inpatient,inpatient skilled nursing,201901,49
+cms_synthetic,inpatient,inpatient skilled nursing,201902,27
+cms_synthetic,inpatient,inpatient skilled nursing,201903,41
+cms_synthetic,inpatient,inpatient skilled nursing,201904,44
+cms_synthetic,inpatient,inpatient skilled nursing,201905,33
+cms_synthetic,inpatient,inpatient skilled nursing,201906,40
+cms_synthetic,inpatient,inpatient skilled nursing,201907,43
+cms_synthetic,inpatient,inpatient skilled nursing,201908,39
+cms_synthetic,inpatient,inpatient skilled nursing,201909,34
+cms_synthetic,inpatient,inpatient skilled nursing,201910,29
+cms_synthetic,inpatient,inpatient skilled nursing,201911,47
+cms_synthetic,inpatient,inpatient skilled nursing,201912,32
+cms_synthetic,inpatient,inpatient skilled nursing,202001,36
+cms_synthetic,inpatient,inpatient skilled nursing,202002,35
+cms_synthetic,inpatient,inpatient skilled nursing,202003,22
+cms_synthetic,inpatient,inpatient skilled nursing,202004,34
+cms_synthetic,inpatient,inpatient skilled nursing,202005,47
+cms_synthetic,inpatient,inpatient skilled nursing,202006,39
+cms_synthetic,inpatient,inpatient skilled nursing,202007,48
+cms_synthetic,inpatient,inpatient skilled nursing,202008,40
+cms_synthetic,inpatient,inpatient skilled nursing,202009,41
+cms_synthetic,inpatient,inpatient skilled nursing,202010,30
+cms_synthetic,inpatient,inpatient skilled nursing,202011,18
+cms_synthetic,inpatient,inpatient skilled nursing,202012,48
+cms_synthetic,inpatient,inpatient skilled nursing,202101,43
+cms_synthetic,inpatient,inpatient skilled nursing,202102,29
+cms_synthetic,inpatient,inpatient skilled nursing,202103,21
+cms_synthetic,inpatient,inpatient skilled nursing,202104,33
+cms_synthetic,inpatient,inpatient skilled nursing,202105,45
+cms_synthetic,inpatient,inpatient skilled nursing,202106,39
+cms_synthetic,inpatient,inpatient skilled nursing,202107,34
+cms_synthetic,inpatient,inpatient skilled nursing,202108,47
+cms_synthetic,inpatient,inpatient skilled nursing,202109,52
+cms_synthetic,inpatient,inpatient skilled nursing,202110,54
+cms_synthetic,inpatient,inpatient skilled nursing,202111,43
+cms_synthetic,inpatient,inpatient skilled nursing,202112,40
+cms_synthetic,inpatient,inpatient skilled nursing,202201,36
+cms_synthetic,inpatient,inpatient skilled nursing,202202,25
+cms_synthetic,inpatient,inpatient skilled nursing,202203,42
+cms_synthetic,inpatient,inpatient skilled nursing,202204,40
+cms_synthetic,inpatient,inpatient skilled nursing,202205,41
+cms_synthetic,inpatient,inpatient skilled nursing,202206,43
+cms_synthetic,inpatient,inpatient skilled nursing,202207,45
+cms_synthetic,inpatient,inpatient skilled nursing,202208,40
+cms_synthetic,inpatient,inpatient skilled nursing,202209,44
+cms_synthetic,inpatient,inpatient skilled nursing,202210,39
+cms_synthetic,inpatient,inpatient skilled nursing,202211,52
+cms_synthetic,inpatient,inpatient skilled nursing,202212,39
+cms_synthetic,inpatient,inpatient skilled nursing,202301,26
+cms_synthetic,inpatient,inpatient skilled nursing,202302,25
+cms_synthetic,inpatient,inpatient skilled nursing,202303,1
+cms_synthetic,office based,office visit,201503,125
+cms_synthetic,office based,office visit,201504,211
+cms_synthetic,office based,office visit,201505,179
+cms_synthetic,office based,office visit,201506,214
+cms_synthetic,office based,office visit,201507,173
+cms_synthetic,office based,office visit,201508,219
+cms_synthetic,office based,office visit,201509,192
+cms_synthetic,office based,office visit,201510,210
+cms_synthetic,office based,office visit,201511,206
+cms_synthetic,office based,office visit,201512,200
+cms_synthetic,office based,office visit,201601,223
+cms_synthetic,office based,office visit,201602,252
+cms_synthetic,office based,office visit,201603,255
+cms_synthetic,office based,office visit,201604,200
+cms_synthetic,office based,office visit,201605,204
+cms_synthetic,office based,office visit,201606,226
+cms_synthetic,office based,office visit,201607,207
+cms_synthetic,office based,office visit,201608,196
+cms_synthetic,office based,office visit,201609,195
+cms_synthetic,office based,office visit,201610,233
+cms_synthetic,office based,office visit,201611,196
+cms_synthetic,office based,office visit,201612,199
+cms_synthetic,office based,office visit,201701,242
+cms_synthetic,office based,office visit,201702,187
+cms_synthetic,office based,office visit,201703,269
+cms_synthetic,office based,office visit,201704,205
+cms_synthetic,office based,office visit,201705,245
+cms_synthetic,office based,office visit,201706,225
+cms_synthetic,office based,office visit,201707,230
+cms_synthetic,office based,office visit,201708,200
+cms_synthetic,office based,office visit,201709,229
+cms_synthetic,office based,office visit,201710,236
+cms_synthetic,office based,office visit,201711,192
+cms_synthetic,office based,office visit,201712,247
+cms_synthetic,office based,office visit,201801,261
+cms_synthetic,office based,office visit,201802,205
+cms_synthetic,office based,office visit,201803,293
+cms_synthetic,office based,office visit,201804,213
+cms_synthetic,office based,office visit,201805,247
+cms_synthetic,office based,office visit,201806,233
+cms_synthetic,office based,office visit,201807,242
+cms_synthetic,office based,office visit,201808,247
+cms_synthetic,office based,office visit,201809,238
+cms_synthetic,office based,office visit,201810,213
+cms_synthetic,office based,office visit,201811,213
+cms_synthetic,office based,office visit,201812,257
+cms_synthetic,office based,office visit,201901,225
+cms_synthetic,office based,office visit,201902,188
+cms_synthetic,office based,office visit,201903,373
+cms_synthetic,office based,office visit,201904,223
+cms_synthetic,office based,office visit,201905,273
+cms_synthetic,office based,office visit,201906,242
+cms_synthetic,office based,office visit,201907,272
+cms_synthetic,office based,office visit,201908,263
+cms_synthetic,office based,office visit,201909,249
+cms_synthetic,office based,office visit,201910,253
+cms_synthetic,office based,office visit,201911,238
+cms_synthetic,office based,office visit,201912,273
+cms_synthetic,office based,office visit,202001,274
+cms_synthetic,office based,office visit,202002,252
+cms_synthetic,office based,office visit,202003,352
+cms_synthetic,office based,office visit,202004,288
+cms_synthetic,office based,office visit,202005,256
+cms_synthetic,office based,office visit,202006,279
+cms_synthetic,office based,office visit,202007,285
+cms_synthetic,office based,office visit,202008,260
+cms_synthetic,office based,office visit,202009,248
+cms_synthetic,office based,office visit,202010,263
+cms_synthetic,office based,office visit,202011,217
+cms_synthetic,office based,office visit,202012,247
+cms_synthetic,office based,office visit,202101,264
+cms_synthetic,office based,office visit,202102,258
+cms_synthetic,office based,office visit,202103,380
+cms_synthetic,office based,office visit,202104,289
+cms_synthetic,office based,office visit,202105,303
+cms_synthetic,office based,office visit,202106,287
+cms_synthetic,office based,office visit,202107,288
+cms_synthetic,office based,office visit,202108,286
+cms_synthetic,office based,office visit,202109,288
+cms_synthetic,office based,office visit,202110,296
+cms_synthetic,office based,office visit,202111,326
+cms_synthetic,office based,office visit,202112,262
+cms_synthetic,office based,office visit,202201,289
+cms_synthetic,office based,office visit,202202,279
+cms_synthetic,office based,office visit,202203,319
+cms_synthetic,office based,office visit,202204,376
+cms_synthetic,office based,office visit,202205,278
+cms_synthetic,office based,office visit,202206,286
+cms_synthetic,office based,office visit,202207,272
+cms_synthetic,office based,office visit,202208,304
+cms_synthetic,office based,office visit,202209,310
+cms_synthetic,office based,office visit,202210,313
+cms_synthetic,office based,office visit,202211,326
+cms_synthetic,office based,office visit,202212,279
+cms_synthetic,office based,office visit,202301,273
+cms_synthetic,office based,office visit,202302,297
+cms_synthetic,office based,office visit,202303,16
+cms_synthetic,office based,office visit - other,201503,431
+cms_synthetic,office based,office visit - other,201504,575
+cms_synthetic,office based,office visit - other,201505,577
+cms_synthetic,office based,office visit - other,201506,560
+cms_synthetic,office based,office visit - other,201507,567
+cms_synthetic,office based,office visit - other,201508,568
+cms_synthetic,office based,office visit - other,201509,558
+cms_synthetic,office based,office visit - other,201510,584
+cms_synthetic,office based,office visit - other,201511,570
+cms_synthetic,office based,office visit - other,201512,592
+cms_synthetic,office based,office visit - other,201601,570
+cms_synthetic,office based,office visit - other,201602,748
+cms_synthetic,office based,office visit - other,201603,629
+cms_synthetic,office based,office visit - other,201604,624
+cms_synthetic,office based,office visit - other,201605,633
+cms_synthetic,office based,office visit - other,201606,586
+cms_synthetic,office based,office visit - other,201607,666
+cms_synthetic,office based,office visit - other,201608,613
+cms_synthetic,office based,office visit - other,201609,615
+cms_synthetic,office based,office visit - other,201610,626
+cms_synthetic,office based,office visit - other,201611,633
+cms_synthetic,office based,office visit - other,201612,660
+cms_synthetic,office based,office visit - other,201701,630
+cms_synthetic,office based,office visit - other,201702,578
+cms_synthetic,office based,office visit - other,201703,897
+cms_synthetic,office based,office visit - other,201704,619
+cms_synthetic,office based,office visit - other,201705,683
+cms_synthetic,office based,office visit - other,201706,646
+cms_synthetic,office based,office visit - other,201707,655
+cms_synthetic,office based,office visit - other,201708,686
+cms_synthetic,office based,office visit - other,201709,657
+cms_synthetic,office based,office visit - other,201710,663
+cms_synthetic,office based,office visit - other,201711,647
+cms_synthetic,office based,office visit - other,201712,698
+cms_synthetic,office based,office visit - other,201801,624
+cms_synthetic,office based,office visit - other,201802,585
+cms_synthetic,office based,office visit - other,201803,950
+cms_synthetic,office based,office visit - other,201804,611
+cms_synthetic,office based,office visit - other,201805,745
+cms_synthetic,office based,office visit - other,201806,672
+cms_synthetic,office based,office visit - other,201807,769
+cms_synthetic,office based,office visit - other,201808,678
+cms_synthetic,office based,office visit - other,201809,714
+cms_synthetic,office based,office visit - other,201810,765
+cms_synthetic,office based,office visit - other,201811,682
+cms_synthetic,office based,office visit - other,201812,701
+cms_synthetic,office based,office visit - other,201901,721
+cms_synthetic,office based,office visit - other,201902,625
+cms_synthetic,office based,office visit - other,201903,958
+cms_synthetic,office based,office visit - other,201904,692
+cms_synthetic,office based,office visit - other,201905,756
+cms_synthetic,office based,office visit - other,201906,745
+cms_synthetic,office based,office visit - other,201907,738
+cms_synthetic,office based,office visit - other,201908,705
+cms_synthetic,office based,office visit - other,201909,704
+cms_synthetic,office based,office visit - other,201910,796
+cms_synthetic,office based,office visit - other,201911,710
+cms_synthetic,office based,office visit - other,201912,768
+cms_synthetic,office based,office visit - other,202001,708
+cms_synthetic,office based,office visit - other,202002,672
+cms_synthetic,office based,office visit - other,202003,1000
+cms_synthetic,office based,office visit - other,202004,729
+cms_synthetic,office based,office visit - other,202005,807
+cms_synthetic,office based,office visit - other,202006,755
+cms_synthetic,office based,office visit - other,202007,779
+cms_synthetic,office based,office visit - other,202008,807
+cms_synthetic,office based,office visit - other,202009,828
+cms_synthetic,office based,office visit - other,202010,802
+cms_synthetic,office based,office visit - other,202011,760
+cms_synthetic,office based,office visit - other,202012,821
+cms_synthetic,office based,office visit - other,202101,830
+cms_synthetic,office based,office visit - other,202102,695
+cms_synthetic,office based,office visit - other,202103,1084
+cms_synthetic,office based,office visit - other,202104,825
+cms_synthetic,office based,office visit - other,202105,797
+cms_synthetic,office based,office visit - other,202106,815
+cms_synthetic,office based,office visit - other,202107,819
+cms_synthetic,office based,office visit - other,202108,842
+cms_synthetic,office based,office visit - other,202109,827
+cms_synthetic,office based,office visit - other,202110,815
+cms_synthetic,office based,office visit - other,202111,817
+cms_synthetic,office based,office visit - other,202112,870
+cms_synthetic,office based,office visit - other,202201,845
+cms_synthetic,office based,office visit - other,202202,785
+cms_synthetic,office based,office visit - other,202203,966
+cms_synthetic,office based,office visit - other,202204,1048
+cms_synthetic,office based,office visit - other,202205,925
+cms_synthetic,office based,office visit - other,202206,934
+cms_synthetic,office based,office visit - other,202207,915
+cms_synthetic,office based,office visit - other,202208,949
+cms_synthetic,office based,office visit - other,202209,904
+cms_synthetic,office based,office visit - other,202210,874
+cms_synthetic,office based,office visit - other,202211,898
+cms_synthetic,office based,office visit - other,202212,897
+cms_synthetic,office based,office visit - other,202301,971
+cms_synthetic,office based,office visit - other,202302,842
+cms_synthetic,office based,office visit - other,202303,56
+cms_synthetic,office based,office visit pt/ot/st,201503,10
+cms_synthetic,office based,office visit pt/ot/st,201504,13
+cms_synthetic,office based,office visit pt/ot/st,201505,17
+cms_synthetic,office based,office visit pt/ot/st,201506,7
+cms_synthetic,office based,office visit pt/ot/st,201507,8
+cms_synthetic,office based,office visit pt/ot/st,201508,8
+cms_synthetic,office based,office visit pt/ot/st,201509,14
+cms_synthetic,office based,office visit pt/ot/st,201510,7
+cms_synthetic,office based,office visit pt/ot/st,201511,4
+cms_synthetic,office based,office visit pt/ot/st,201512,12
+cms_synthetic,office based,office visit pt/ot/st,201601,10
+cms_synthetic,office based,office visit pt/ot/st,201602,5
+cms_synthetic,office based,office visit pt/ot/st,201603,16
+cms_synthetic,office based,office visit pt/ot/st,201604,8
+cms_synthetic,office based,office visit pt/ot/st,201605,14
+cms_synthetic,office based,office visit pt/ot/st,201606,9
+cms_synthetic,office based,office visit pt/ot/st,201607,10
+cms_synthetic,office based,office visit pt/ot/st,201608,12
+cms_synthetic,office based,office visit pt/ot/st,201609,19
+cms_synthetic,office based,office visit pt/ot/st,201610,9
+cms_synthetic,office based,office visit pt/ot/st,201611,9
+cms_synthetic,office based,office visit pt/ot/st,201612,12
+cms_synthetic,office based,office visit pt/ot/st,201701,11
+cms_synthetic,office based,office visit pt/ot/st,201702,7
+cms_synthetic,office based,office visit pt/ot/st,201703,9
+cms_synthetic,office based,office visit pt/ot/st,201704,18
+cms_synthetic,office based,office visit pt/ot/st,201705,18
+cms_synthetic,office based,office visit pt/ot/st,201706,8
+cms_synthetic,office based,office visit pt/ot/st,201707,14
+cms_synthetic,office based,office visit pt/ot/st,201708,8
+cms_synthetic,office based,office visit pt/ot/st,201709,20
+cms_synthetic,office based,office visit pt/ot/st,201710,13
+cms_synthetic,office based,office visit pt/ot/st,201711,10
+cms_synthetic,office based,office visit pt/ot/st,201712,10
+cms_synthetic,office based,office visit pt/ot/st,201801,13
+cms_synthetic,office based,office visit pt/ot/st,201802,9
+cms_synthetic,office based,office visit pt/ot/st,201803,11
+cms_synthetic,office based,office visit pt/ot/st,201804,16
+cms_synthetic,office based,office visit pt/ot/st,201805,15
+cms_synthetic,office based,office visit pt/ot/st,201806,11
+cms_synthetic,office based,office visit pt/ot/st,201807,16
+cms_synthetic,office based,office visit pt/ot/st,201808,6
+cms_synthetic,office based,office visit pt/ot/st,201809,11
+cms_synthetic,office based,office visit pt/ot/st,201810,11
+cms_synthetic,office based,office visit pt/ot/st,201811,6
+cms_synthetic,office based,office visit pt/ot/st,201812,13
+cms_synthetic,office based,office visit pt/ot/st,201901,13
+cms_synthetic,office based,office visit pt/ot/st,201902,11
+cms_synthetic,office based,office visit pt/ot/st,201903,8
+cms_synthetic,office based,office visit pt/ot/st,201904,19
+cms_synthetic,office based,office visit pt/ot/st,201905,12
+cms_synthetic,office based,office visit pt/ot/st,201906,15
+cms_synthetic,office based,office visit pt/ot/st,201907,5
+cms_synthetic,office based,office visit pt/ot/st,201908,13
+cms_synthetic,office based,office visit pt/ot/st,201909,11
+cms_synthetic,office based,office visit pt/ot/st,201910,14
+cms_synthetic,office based,office visit pt/ot/st,201911,12
+cms_synthetic,office based,office visit pt/ot/st,201912,16
+cms_synthetic,office based,office visit pt/ot/st,202001,13
+cms_synthetic,office based,office visit pt/ot/st,202002,11
+cms_synthetic,office based,office visit pt/ot/st,202003,11
+cms_synthetic,office based,office visit pt/ot/st,202004,14
+cms_synthetic,office based,office visit pt/ot/st,202005,24
+cms_synthetic,office based,office visit pt/ot/st,202006,11
+cms_synthetic,office based,office visit pt/ot/st,202007,9
+cms_synthetic,office based,office visit pt/ot/st,202008,15
+cms_synthetic,office based,office visit pt/ot/st,202009,19
+cms_synthetic,office based,office visit pt/ot/st,202010,21
+cms_synthetic,office based,office visit pt/ot/st,202011,11
+cms_synthetic,office based,office visit pt/ot/st,202012,19
+cms_synthetic,office based,office visit pt/ot/st,202101,13
+cms_synthetic,office based,office visit pt/ot/st,202102,14
+cms_synthetic,office based,office visit pt/ot/st,202103,8
+cms_synthetic,office based,office visit pt/ot/st,202104,21
+cms_synthetic,office based,office visit pt/ot/st,202105,23
+cms_synthetic,office based,office visit pt/ot/st,202106,13
+cms_synthetic,office based,office visit pt/ot/st,202107,17
+cms_synthetic,office based,office visit pt/ot/st,202108,12
+cms_synthetic,office based,office visit pt/ot/st,202109,13
+cms_synthetic,office based,office visit pt/ot/st,202110,20
+cms_synthetic,office based,office visit pt/ot/st,202111,23
+cms_synthetic,office based,office visit pt/ot/st,202112,11
+cms_synthetic,office based,office visit pt/ot/st,202201,17
+cms_synthetic,office based,office visit pt/ot/st,202202,14
+cms_synthetic,office based,office visit pt/ot/st,202203,16
+cms_synthetic,office based,office visit pt/ot/st,202204,16
+cms_synthetic,office based,office visit pt/ot/st,202205,21
+cms_synthetic,office based,office visit pt/ot/st,202206,15
+cms_synthetic,office based,office visit pt/ot/st,202207,14
+cms_synthetic,office based,office visit pt/ot/st,202208,21
+cms_synthetic,office based,office visit pt/ot/st,202209,22
+cms_synthetic,office based,office visit pt/ot/st,202210,22
+cms_synthetic,office based,office visit pt/ot/st,202211,26
+cms_synthetic,office based,office visit pt/ot/st,202212,16
+cms_synthetic,office based,office visit pt/ot/st,202301,26
+cms_synthetic,office based,office visit pt/ot/st,202302,5
+cms_synthetic,office based,office visit radiology,201503,2
+cms_synthetic,office based,office visit radiology,201505,1
+cms_synthetic,office based,office visit radiology,201506,2
+cms_synthetic,office based,office visit radiology,201507,2
+cms_synthetic,office based,office visit radiology,201508,1
+cms_synthetic,office based,office visit radiology,201509,1
+cms_synthetic,office based,office visit radiology,201510,2
+cms_synthetic,office based,office visit radiology,201511,5
+cms_synthetic,office based,office visit radiology,201512,4
+cms_synthetic,office based,office visit radiology,201602,1
+cms_synthetic,office based,office visit radiology,201605,5
+cms_synthetic,office based,office visit radiology,201607,1
+cms_synthetic,office based,office visit radiology,201608,3
+cms_synthetic,office based,office visit radiology,201609,2
+cms_synthetic,office based,office visit radiology,201610,1
+cms_synthetic,office based,office visit radiology,201611,1
+cms_synthetic,office based,office visit radiology,201612,2
+cms_synthetic,office based,office visit radiology,201701,3
+cms_synthetic,office based,office visit radiology,201703,3
+cms_synthetic,office based,office visit radiology,201705,3
+cms_synthetic,office based,office visit radiology,201706,3
+cms_synthetic,office based,office visit radiology,201707,2
+cms_synthetic,office based,office visit radiology,201708,2
+cms_synthetic,office based,office visit radiology,201709,3
+cms_synthetic,office based,office visit radiology,201712,2
+cms_synthetic,office based,office visit radiology,201801,2
+cms_synthetic,office based,office visit radiology,201802,2
+cms_synthetic,office based,office visit radiology,201804,3
+cms_synthetic,office based,office visit radiology,201805,3
+cms_synthetic,office based,office visit radiology,201806,2
+cms_synthetic,office based,office visit radiology,201807,2
+cms_synthetic,office based,office visit radiology,201809,1
+cms_synthetic,office based,office visit radiology,201810,2
+cms_synthetic,office based,office visit radiology,201811,3
+cms_synthetic,office based,office visit radiology,201812,2
+cms_synthetic,office based,office visit radiology,201901,4
+cms_synthetic,office based,office visit radiology,201902,2
+cms_synthetic,office based,office visit radiology,201903,7
+cms_synthetic,office based,office visit radiology,201904,3
+cms_synthetic,office based,office visit radiology,201905,1
+cms_synthetic,office based,office visit radiology,201906,2
+cms_synthetic,office based,office visit radiology,201907,3
+cms_synthetic,office based,office visit radiology,201908,3
+cms_synthetic,office based,office visit radiology,201909,3
+cms_synthetic,office based,office visit radiology,201910,4
+cms_synthetic,office based,office visit radiology,201912,3
+cms_synthetic,office based,office visit radiology,202002,1
+cms_synthetic,office based,office visit radiology,202003,6
+cms_synthetic,office based,office visit radiology,202004,3
+cms_synthetic,office based,office visit radiology,202005,3
+cms_synthetic,office based,office visit radiology,202006,4
+cms_synthetic,office based,office visit radiology,202007,3
+cms_synthetic,office based,office visit radiology,202008,3
+cms_synthetic,office based,office visit radiology,202009,2
+cms_synthetic,office based,office visit radiology,202010,3
+cms_synthetic,office based,office visit radiology,202011,3
+cms_synthetic,office based,office visit radiology,202012,1
+cms_synthetic,office based,office visit radiology,202101,3
+cms_synthetic,office based,office visit radiology,202102,1
+cms_synthetic,office based,office visit radiology,202103,6
+cms_synthetic,office based,office visit radiology,202105,3
+cms_synthetic,office based,office visit radiology,202106,2
+cms_synthetic,office based,office visit radiology,202107,1
+cms_synthetic,office based,office visit radiology,202108,4
+cms_synthetic,office based,office visit radiology,202109,3
+cms_synthetic,office based,office visit radiology,202110,2
+cms_synthetic,office based,office visit radiology,202111,2
+cms_synthetic,office based,office visit radiology,202112,2
+cms_synthetic,office based,office visit radiology,202201,2
+cms_synthetic,office based,office visit radiology,202202,3
+cms_synthetic,office based,office visit radiology,202204,4
+cms_synthetic,office based,office visit radiology,202205,4
+cms_synthetic,office based,office visit radiology,202208,1
+cms_synthetic,office based,office visit radiology,202209,2
+cms_synthetic,office based,office visit radiology,202210,1
+cms_synthetic,office based,office visit radiology,202211,3
+cms_synthetic,office based,office visit radiology,202212,4
+cms_synthetic,office based,office visit radiology,202301,6
+cms_synthetic,office based,office visit radiology,202302,1
+cms_synthetic,office based,office visit radiology,202303,1
+cms_synthetic,office based,telehealth,201703,1
+cms_synthetic,office based,telehealth,202005,1
+cms_synthetic,office based,telehealth,202102,3
+cms_synthetic,office based,telehealth,202103,1
+cms_synthetic,office based,telehealth,202109,1
+cms_synthetic,office based,telehealth,202111,2
+cms_synthetic,office based,telehealth,202112,2
+cms_synthetic,office based,telehealth,202201,2
+cms_synthetic,office based,telehealth,202202,3
+cms_synthetic,office based,telehealth,202203,3
+cms_synthetic,office based,telehealth,202204,3
+cms_synthetic,office based,telehealth,202205,5
+cms_synthetic,office based,telehealth,202210,2
+cms_synthetic,office based,telehealth,202211,6
+cms_synthetic,office based,telehealth,202212,3
+cms_synthetic,office based,telehealth,202301,1
+cms_synthetic,office based,telehealth,202302,4
+cms_synthetic,other,dme - orphaned,201503,7
+cms_synthetic,other,dme - orphaned,201504,2
+cms_synthetic,other,dme - orphaned,201505,4
+cms_synthetic,other,dme - orphaned,201506,6
+cms_synthetic,other,dme - orphaned,201507,1
+cms_synthetic,other,dme - orphaned,201508,7
+cms_synthetic,other,dme - orphaned,201509,6
+cms_synthetic,other,dme - orphaned,201510,5
+cms_synthetic,other,dme - orphaned,201511,7
+cms_synthetic,other,dme - orphaned,201512,3
+cms_synthetic,other,dme - orphaned,201601,8
+cms_synthetic,other,dme - orphaned,201602,3
+cms_synthetic,other,dme - orphaned,201603,6
+cms_synthetic,other,dme - orphaned,201604,10
+cms_synthetic,other,dme - orphaned,201605,3
+cms_synthetic,other,dme - orphaned,201606,5
+cms_synthetic,other,dme - orphaned,201607,7
+cms_synthetic,other,dme - orphaned,201608,8
+cms_synthetic,other,dme - orphaned,201609,6
+cms_synthetic,other,dme - orphaned,201610,7
+cms_synthetic,other,dme - orphaned,201611,5
+cms_synthetic,other,dme - orphaned,201612,4
+cms_synthetic,other,dme - orphaned,201701,4
+cms_synthetic,other,dme - orphaned,201702,8
+cms_synthetic,other,dme - orphaned,201703,8
+cms_synthetic,other,dme - orphaned,201704,2
+cms_synthetic,other,dme - orphaned,201705,3
+cms_synthetic,other,dme - orphaned,201706,4
+cms_synthetic,other,dme - orphaned,201707,3
+cms_synthetic,other,dme - orphaned,201708,7
+cms_synthetic,other,dme - orphaned,201709,4
+cms_synthetic,other,dme - orphaned,201710,5
+cms_synthetic,other,dme - orphaned,201711,6
+cms_synthetic,other,dme - orphaned,201712,6
+cms_synthetic,other,dme - orphaned,201801,3
+cms_synthetic,other,dme - orphaned,201802,7
+cms_synthetic,other,dme - orphaned,201803,6
+cms_synthetic,other,dme - orphaned,201804,8
+cms_synthetic,other,dme - orphaned,201805,7
+cms_synthetic,other,dme - orphaned,201806,5
+cms_synthetic,other,dme - orphaned,201807,9
+cms_synthetic,other,dme - orphaned,201808,11
+cms_synthetic,other,dme - orphaned,201809,11
+cms_synthetic,other,dme - orphaned,201810,5
+cms_synthetic,other,dme - orphaned,201811,8
+cms_synthetic,other,dme - orphaned,201812,10
+cms_synthetic,other,dme - orphaned,201901,7
+cms_synthetic,other,dme - orphaned,201902,3
+cms_synthetic,other,dme - orphaned,201903,11
+cms_synthetic,other,dme - orphaned,201904,2
+cms_synthetic,other,dme - orphaned,201905,7
+cms_synthetic,other,dme - orphaned,201906,4
+cms_synthetic,other,dme - orphaned,201907,12
+cms_synthetic,other,dme - orphaned,201908,7
+cms_synthetic,other,dme - orphaned,201909,7
+cms_synthetic,other,dme - orphaned,201910,9
+cms_synthetic,other,dme - orphaned,201911,8
+cms_synthetic,other,dme - orphaned,201912,3
+cms_synthetic,other,dme - orphaned,202001,6
+cms_synthetic,other,dme - orphaned,202002,5
+cms_synthetic,other,dme - orphaned,202003,8
+cms_synthetic,other,dme - orphaned,202004,2
+cms_synthetic,other,dme - orphaned,202005,7
+cms_synthetic,other,dme - orphaned,202006,6
+cms_synthetic,other,dme - orphaned,202007,6
+cms_synthetic,other,dme - orphaned,202008,7
+cms_synthetic,other,dme - orphaned,202009,6
+cms_synthetic,other,dme - orphaned,202010,6
+cms_synthetic,other,dme - orphaned,202011,7
+cms_synthetic,other,dme - orphaned,202012,6
+cms_synthetic,other,dme - orphaned,202101,8
+cms_synthetic,other,dme - orphaned,202102,3
+cms_synthetic,other,dme - orphaned,202103,5
+cms_synthetic,other,dme - orphaned,202104,7
+cms_synthetic,other,dme - orphaned,202105,8
+cms_synthetic,other,dme - orphaned,202106,9
+cms_synthetic,other,dme - orphaned,202107,7
+cms_synthetic,other,dme - orphaned,202108,7
+cms_synthetic,other,dme - orphaned,202109,8
+cms_synthetic,other,dme - orphaned,202110,12
+cms_synthetic,other,dme - orphaned,202111,8
+cms_synthetic,other,dme - orphaned,202112,7
+cms_synthetic,other,dme - orphaned,202201,7
+cms_synthetic,other,dme - orphaned,202202,12
+cms_synthetic,other,dme - orphaned,202203,4
+cms_synthetic,other,dme - orphaned,202204,6
+cms_synthetic,other,dme - orphaned,202205,9
+cms_synthetic,other,dme - orphaned,202206,4
+cms_synthetic,other,dme - orphaned,202207,8
+cms_synthetic,other,dme - orphaned,202208,6
+cms_synthetic,other,dme - orphaned,202209,7
+cms_synthetic,other,dme - orphaned,202210,6
+cms_synthetic,other,dme - orphaned,202211,3
+cms_synthetic,other,dme - orphaned,202212,14
+cms_synthetic,other,dme - orphaned,202301,5
+cms_synthetic,other,dme - orphaned,202302,9
+cms_synthetic,other,lab - orphaned,201503,1
+cms_synthetic,other,lab - orphaned,201504,7
+cms_synthetic,other,lab - orphaned,201505,4
+cms_synthetic,other,lab - orphaned,201506,9
+cms_synthetic,other,lab - orphaned,201507,4
+cms_synthetic,other,lab - orphaned,201508,2
+cms_synthetic,other,lab - orphaned,201509,2
+cms_synthetic,other,lab - orphaned,201510,5
+cms_synthetic,other,lab - orphaned,201511,4
+cms_synthetic,other,lab - orphaned,201512,4
+cms_synthetic,other,lab - orphaned,201601,3
+cms_synthetic,other,lab - orphaned,201602,4
+cms_synthetic,other,lab - orphaned,201603,10
+cms_synthetic,other,lab - orphaned,201604,3
+cms_synthetic,other,lab - orphaned,201605,4
+cms_synthetic,other,lab - orphaned,201606,10
+cms_synthetic,other,lab - orphaned,201607,9
+cms_synthetic,other,lab - orphaned,201608,7
+cms_synthetic,other,lab - orphaned,201609,5
+cms_synthetic,other,lab - orphaned,201610,4
+cms_synthetic,other,lab - orphaned,201611,8
+cms_synthetic,other,lab - orphaned,201612,3
+cms_synthetic,other,lab - orphaned,201701,5
+cms_synthetic,other,lab - orphaned,201702,6
+cms_synthetic,other,lab - orphaned,201703,5
+cms_synthetic,other,lab - orphaned,201704,5
+cms_synthetic,other,lab - orphaned,201705,6
+cms_synthetic,other,lab - orphaned,201706,3
+cms_synthetic,other,lab - orphaned,201707,1
+cms_synthetic,other,lab - orphaned,201708,8
+cms_synthetic,other,lab - orphaned,201709,5
+cms_synthetic,other,lab - orphaned,201710,6
+cms_synthetic,other,lab - orphaned,201711,5
+cms_synthetic,other,lab - orphaned,201712,5
+cms_synthetic,other,lab - orphaned,201801,7
+cms_synthetic,other,lab - orphaned,201802,2
+cms_synthetic,other,lab - orphaned,201803,7
+cms_synthetic,other,lab - orphaned,201804,2
+cms_synthetic,other,lab - orphaned,201805,7
+cms_synthetic,other,lab - orphaned,201806,3
+cms_synthetic,other,lab - orphaned,201807,7
+cms_synthetic,other,lab - orphaned,201808,6
+cms_synthetic,other,lab - orphaned,201809,2
+cms_synthetic,other,lab - orphaned,201810,3
+cms_synthetic,other,lab - orphaned,201811,7
+cms_synthetic,other,lab - orphaned,201812,4
+cms_synthetic,other,lab - orphaned,201901,6
+cms_synthetic,other,lab - orphaned,201902,5
+cms_synthetic,other,lab - orphaned,201903,3
+cms_synthetic,other,lab - orphaned,201904,4
+cms_synthetic,other,lab - orphaned,201905,4
+cms_synthetic,other,lab - orphaned,201906,6
+cms_synthetic,other,lab - orphaned,201907,3
+cms_synthetic,other,lab - orphaned,201908,3
+cms_synthetic,other,lab - orphaned,201909,6
+cms_synthetic,other,lab - orphaned,201910,5
+cms_synthetic,other,lab - orphaned,201911,5
+cms_synthetic,other,lab - orphaned,201912,6
+cms_synthetic,other,lab - orphaned,202001,7
+cms_synthetic,other,lab - orphaned,202002,4
+cms_synthetic,other,lab - orphaned,202003,9
+cms_synthetic,other,lab - orphaned,202004,5
+cms_synthetic,other,lab - orphaned,202005,5
+cms_synthetic,other,lab - orphaned,202006,8
+cms_synthetic,other,lab - orphaned,202007,9
+cms_synthetic,other,lab - orphaned,202008,5
+cms_synthetic,other,lab - orphaned,202009,7
+cms_synthetic,other,lab - orphaned,202010,3
+cms_synthetic,other,lab - orphaned,202011,6
+cms_synthetic,other,lab - orphaned,202012,10
+cms_synthetic,other,lab - orphaned,202101,7
+cms_synthetic,other,lab - orphaned,202102,8
+cms_synthetic,other,lab - orphaned,202103,8
+cms_synthetic,other,lab - orphaned,202104,9
+cms_synthetic,other,lab - orphaned,202105,6
+cms_synthetic,other,lab - orphaned,202106,7
+cms_synthetic,other,lab - orphaned,202107,5
+cms_synthetic,other,lab - orphaned,202108,7
+cms_synthetic,other,lab - orphaned,202109,7
+cms_synthetic,other,lab - orphaned,202110,7
+cms_synthetic,other,lab - orphaned,202111,10
+cms_synthetic,other,lab - orphaned,202112,5
+cms_synthetic,other,lab - orphaned,202201,3
+cms_synthetic,other,lab - orphaned,202202,9
+cms_synthetic,other,lab - orphaned,202203,7
+cms_synthetic,other,lab - orphaned,202204,11
+cms_synthetic,other,lab - orphaned,202205,4
+cms_synthetic,other,lab - orphaned,202206,10
+cms_synthetic,other,lab - orphaned,202207,9
+cms_synthetic,other,lab - orphaned,202208,5
+cms_synthetic,other,lab - orphaned,202209,4
+cms_synthetic,other,lab - orphaned,202210,8
+cms_synthetic,other,lab - orphaned,202211,3
+cms_synthetic,other,lab - orphaned,202212,6
+cms_synthetic,other,lab - orphaned,202301,8
+cms_synthetic,other,lab - orphaned,202302,6
+cms_synthetic,other,orphaned claim,201503,2
+cms_synthetic,other,orphaned claim,201504,4
+cms_synthetic,other,orphaned claim,201505,7
+cms_synthetic,other,orphaned claim,201506,7
+cms_synthetic,other,orphaned claim,201507,9
+cms_synthetic,other,orphaned claim,201508,6
+cms_synthetic,other,orphaned claim,201509,5
+cms_synthetic,other,orphaned claim,201510,2
+cms_synthetic,other,orphaned claim,201511,11
+cms_synthetic,other,orphaned claim,201512,4
+cms_synthetic,other,orphaned claim,201601,2
+cms_synthetic,other,orphaned claim,201602,6
+cms_synthetic,other,orphaned claim,201603,4
+cms_synthetic,other,orphaned claim,201604,4
+cms_synthetic,other,orphaned claim,201605,6
+cms_synthetic,other,orphaned claim,201606,7
+cms_synthetic,other,orphaned claim,201607,10
+cms_synthetic,other,orphaned claim,201608,6
+cms_synthetic,other,orphaned claim,201609,6
+cms_synthetic,other,orphaned claim,201610,3
+cms_synthetic,other,orphaned claim,201611,14
+cms_synthetic,other,orphaned claim,201612,2
+cms_synthetic,other,orphaned claim,201701,2
+cms_synthetic,other,orphaned claim,201702,8
+cms_synthetic,other,orphaned claim,201703,7
+cms_synthetic,other,orphaned claim,201704,2
+cms_synthetic,other,orphaned claim,201705,7
+cms_synthetic,other,orphaned claim,201706,5
+cms_synthetic,other,orphaned claim,201707,9
+cms_synthetic,other,orphaned claim,201708,7
+cms_synthetic,other,orphaned claim,201709,6
+cms_synthetic,other,orphaned claim,201711,13
+cms_synthetic,other,orphaned claim,201712,1
+cms_synthetic,other,orphaned claim,201801,4
+cms_synthetic,other,orphaned claim,201802,5
+cms_synthetic,other,orphaned claim,201803,7
+cms_synthetic,other,orphaned claim,201804,3
+cms_synthetic,other,orphaned claim,201805,7
+cms_synthetic,other,orphaned claim,201806,5
+cms_synthetic,other,orphaned claim,201807,6
+cms_synthetic,other,orphaned claim,201808,9
+cms_synthetic,other,orphaned claim,201809,8
+cms_synthetic,other,orphaned claim,201811,9
+cms_synthetic,other,orphaned claim,201812,5
+cms_synthetic,other,orphaned claim,201901,4
+cms_synthetic,other,orphaned claim,201902,5
+cms_synthetic,other,orphaned claim,201903,7
+cms_synthetic,other,orphaned claim,201904,3
+cms_synthetic,other,orphaned claim,201905,7
+cms_synthetic,other,orphaned claim,201906,5
+cms_synthetic,other,orphaned claim,201907,5
+cms_synthetic,other,orphaned claim,201908,9
+cms_synthetic,other,orphaned claim,201909,5
+cms_synthetic,other,orphaned claim,201910,5
+cms_synthetic,other,orphaned claim,201911,9
+cms_synthetic,other,orphaned claim,201912,10
+cms_synthetic,other,orphaned claim,202001,5
+cms_synthetic,other,orphaned claim,202002,4
+cms_synthetic,other,orphaned claim,202003,4
+cms_synthetic,other,orphaned claim,202004,6
+cms_synthetic,other,orphaned claim,202005,5
+cms_synthetic,other,orphaned claim,202006,7
+cms_synthetic,other,orphaned claim,202007,9
+cms_synthetic,other,orphaned claim,202008,7
+cms_synthetic,other,orphaned claim,202009,5
+cms_synthetic,other,orphaned claim,202010,9
+cms_synthetic,other,orphaned claim,202011,4
+cms_synthetic,other,orphaned claim,202012,11
+cms_synthetic,other,orphaned claim,202101,4
+cms_synthetic,other,orphaned claim,202102,3
+cms_synthetic,other,orphaned claim,202103,6
+cms_synthetic,other,orphaned claim,202104,5
+cms_synthetic,other,orphaned claim,202105,3
+cms_synthetic,other,orphaned claim,202106,10
+cms_synthetic,other,orphaned claim,202107,10
+cms_synthetic,other,orphaned claim,202108,9
+cms_synthetic,other,orphaned claim,202109,6
+cms_synthetic,other,orphaned claim,202110,7
+cms_synthetic,other,orphaned claim,202111,3
+cms_synthetic,other,orphaned claim,202112,13
+cms_synthetic,other,orphaned claim,202201,7
+cms_synthetic,other,orphaned claim,202202,1
+cms_synthetic,other,orphaned claim,202203,7
+cms_synthetic,other,orphaned claim,202204,7
+cms_synthetic,other,orphaned claim,202205,3
+cms_synthetic,other,orphaned claim,202206,12
+cms_synthetic,other,orphaned claim,202207,12
+cms_synthetic,other,orphaned claim,202208,15
+cms_synthetic,other,orphaned claim,202209,9
+cms_synthetic,other,orphaned claim,202210,12
+cms_synthetic,other,orphaned claim,202211,4
+cms_synthetic,other,orphaned claim,202212,15
+cms_synthetic,other,orphaned claim,202301,8
+cms_synthetic,other,orphaned claim,202302,4
+cms_synthetic,outpatient,ambulatory surgery center,201503,45
+cms_synthetic,outpatient,ambulatory surgery center,201504,56
+cms_synthetic,outpatient,ambulatory surgery center,201505,57
+cms_synthetic,outpatient,ambulatory surgery center,201506,59
+cms_synthetic,outpatient,ambulatory surgery center,201507,76
+cms_synthetic,outpatient,ambulatory surgery center,201508,68
+cms_synthetic,outpatient,ambulatory surgery center,201509,69
+cms_synthetic,outpatient,ambulatory surgery center,201510,75
+cms_synthetic,outpatient,ambulatory surgery center,201511,69
+cms_synthetic,outpatient,ambulatory surgery center,201512,67
+cms_synthetic,outpatient,ambulatory surgery center,201601,70
+cms_synthetic,outpatient,ambulatory surgery center,201602,63
+cms_synthetic,outpatient,ambulatory surgery center,201603,71
+cms_synthetic,outpatient,ambulatory surgery center,201604,68
+cms_synthetic,outpatient,ambulatory surgery center,201605,63
+cms_synthetic,outpatient,ambulatory surgery center,201606,60
+cms_synthetic,outpatient,ambulatory surgery center,201607,66
+cms_synthetic,outpatient,ambulatory surgery center,201608,67
+cms_synthetic,outpatient,ambulatory surgery center,201609,69
+cms_synthetic,outpatient,ambulatory surgery center,201610,72
+cms_synthetic,outpatient,ambulatory surgery center,201611,63
+cms_synthetic,outpatient,ambulatory surgery center,201612,63
+cms_synthetic,outpatient,ambulatory surgery center,201701,64
+cms_synthetic,outpatient,ambulatory surgery center,201702,56
+cms_synthetic,outpatient,ambulatory surgery center,201703,71
+cms_synthetic,outpatient,ambulatory surgery center,201704,70
+cms_synthetic,outpatient,ambulatory surgery center,201705,72
+cms_synthetic,outpatient,ambulatory surgery center,201706,49
+cms_synthetic,outpatient,ambulatory surgery center,201707,61
+cms_synthetic,outpatient,ambulatory surgery center,201708,73
+cms_synthetic,outpatient,ambulatory surgery center,201709,69
+cms_synthetic,outpatient,ambulatory surgery center,201710,70
+cms_synthetic,outpatient,ambulatory surgery center,201711,70
+cms_synthetic,outpatient,ambulatory surgery center,201712,70
+cms_synthetic,outpatient,ambulatory surgery center,201801,59
+cms_synthetic,outpatient,ambulatory surgery center,201802,59
+cms_synthetic,outpatient,ambulatory surgery center,201803,73
+cms_synthetic,outpatient,ambulatory surgery center,201804,78
+cms_synthetic,outpatient,ambulatory surgery center,201805,68
+cms_synthetic,outpatient,ambulatory surgery center,201806,73
+cms_synthetic,outpatient,ambulatory surgery center,201807,69
+cms_synthetic,outpatient,ambulatory surgery center,201808,71
+cms_synthetic,outpatient,ambulatory surgery center,201809,71
+cms_synthetic,outpatient,ambulatory surgery center,201810,71
+cms_synthetic,outpatient,ambulatory surgery center,201811,63
+cms_synthetic,outpatient,ambulatory surgery center,201812,80
+cms_synthetic,outpatient,ambulatory surgery center,201901,77
+cms_synthetic,outpatient,ambulatory surgery center,201902,70
+cms_synthetic,outpatient,ambulatory surgery center,201903,88
+cms_synthetic,outpatient,ambulatory surgery center,201904,68
+cms_synthetic,outpatient,ambulatory surgery center,201905,61
+cms_synthetic,outpatient,ambulatory surgery center,201906,74
+cms_synthetic,outpatient,ambulatory surgery center,201907,65
+cms_synthetic,outpatient,ambulatory surgery center,201908,58
+cms_synthetic,outpatient,ambulatory surgery center,201909,83
+cms_synthetic,outpatient,ambulatory surgery center,201910,97
+cms_synthetic,outpatient,ambulatory surgery center,201911,84
+cms_synthetic,outpatient,ambulatory surgery center,201912,88
+cms_synthetic,outpatient,ambulatory surgery center,202001,89
+cms_synthetic,outpatient,ambulatory surgery center,202002,86
+cms_synthetic,outpatient,ambulatory surgery center,202003,102
+cms_synthetic,outpatient,ambulatory surgery center,202004,89
+cms_synthetic,outpatient,ambulatory surgery center,202005,80
+cms_synthetic,outpatient,ambulatory surgery center,202006,95
+cms_synthetic,outpatient,ambulatory surgery center,202007,92
+cms_synthetic,outpatient,ambulatory surgery center,202008,86
+cms_synthetic,outpatient,ambulatory surgery center,202009,91
+cms_synthetic,outpatient,ambulatory surgery center,202010,93
+cms_synthetic,outpatient,ambulatory surgery center,202011,97
+cms_synthetic,outpatient,ambulatory surgery center,202012,80
+cms_synthetic,outpatient,ambulatory surgery center,202101,106
+cms_synthetic,outpatient,ambulatory surgery center,202102,160
+cms_synthetic,outpatient,ambulatory surgery center,202103,173
+cms_synthetic,outpatient,ambulatory surgery center,202104,153
+cms_synthetic,outpatient,ambulatory surgery center,202105,137
+cms_synthetic,outpatient,ambulatory surgery center,202106,110
+cms_synthetic,outpatient,ambulatory surgery center,202107,116
+cms_synthetic,outpatient,ambulatory surgery center,202108,102
+cms_synthetic,outpatient,ambulatory surgery center,202109,102
+cms_synthetic,outpatient,ambulatory surgery center,202110,134
+cms_synthetic,outpatient,ambulatory surgery center,202111,109
+cms_synthetic,outpatient,ambulatory surgery center,202112,106
+cms_synthetic,outpatient,ambulatory surgery center,202201,119
+cms_synthetic,outpatient,ambulatory surgery center,202202,108
+cms_synthetic,outpatient,ambulatory surgery center,202203,128
+cms_synthetic,outpatient,ambulatory surgery center,202204,119
+cms_synthetic,outpatient,ambulatory surgery center,202205,127
+cms_synthetic,outpatient,ambulatory surgery center,202206,118
+cms_synthetic,outpatient,ambulatory surgery center,202207,116
+cms_synthetic,outpatient,ambulatory surgery center,202208,103
+cms_synthetic,outpatient,ambulatory surgery center,202209,116
+cms_synthetic,outpatient,ambulatory surgery center,202210,133
+cms_synthetic,outpatient,ambulatory surgery center,202211,139
+cms_synthetic,outpatient,ambulatory surgery center,202212,123
+cms_synthetic,outpatient,ambulatory surgery center,202301,124
+cms_synthetic,outpatient,ambulatory surgery center,202302,115
+cms_synthetic,outpatient,ambulatory surgery center,202303,4
+cms_synthetic,outpatient,dialysis,201503,1172
+cms_synthetic,outpatient,dialysis,201504,1558
+cms_synthetic,outpatient,dialysis,201505,1702
+cms_synthetic,outpatient,dialysis,201506,1536
+cms_synthetic,outpatient,dialysis,201507,1620
+cms_synthetic,outpatient,dialysis,201508,1648
+cms_synthetic,outpatient,dialysis,201509,1552
+cms_synthetic,outpatient,dialysis,201510,1595
+cms_synthetic,outpatient,dialysis,201511,1573
+cms_synthetic,outpatient,dialysis,201512,1615
+cms_synthetic,outpatient,dialysis,201601,1648
+cms_synthetic,outpatient,dialysis,201602,1533
+cms_synthetic,outpatient,dialysis,201603,1672
+cms_synthetic,outpatient,dialysis,201604,1683
+cms_synthetic,outpatient,dialysis,201605,1850
+cms_synthetic,outpatient,dialysis,201606,1754
+cms_synthetic,outpatient,dialysis,201607,1786
+cms_synthetic,outpatient,dialysis,201608,1834
+cms_synthetic,outpatient,dialysis,201609,1761
+cms_synthetic,outpatient,dialysis,201610,1822
+cms_synthetic,outpatient,dialysis,201611,1743
+cms_synthetic,outpatient,dialysis,201612,1839
+cms_synthetic,outpatient,dialysis,201701,1834
+cms_synthetic,outpatient,dialysis,201702,1639
+cms_synthetic,outpatient,dialysis,201703,1815
+cms_synthetic,outpatient,dialysis,201704,1829
+cms_synthetic,outpatient,dialysis,201705,1910
+cms_synthetic,outpatient,dialysis,201706,1852
+cms_synthetic,outpatient,dialysis,201707,1906
+cms_synthetic,outpatient,dialysis,201708,1935
+cms_synthetic,outpatient,dialysis,201709,1860
+cms_synthetic,outpatient,dialysis,201710,1936
+cms_synthetic,outpatient,dialysis,201711,1939
+cms_synthetic,outpatient,dialysis,201712,2020
+cms_synthetic,outpatient,dialysis,201801,2091
+cms_synthetic,outpatient,dialysis,201802,1835
+cms_synthetic,outpatient,dialysis,201803,2008
+cms_synthetic,outpatient,dialysis,201804,1938
+cms_synthetic,outpatient,dialysis,201805,1955
+cms_synthetic,outpatient,dialysis,201806,1951
+cms_synthetic,outpatient,dialysis,201807,1987
+cms_synthetic,outpatient,dialysis,201808,2078
+cms_synthetic,outpatient,dialysis,201809,1971
+cms_synthetic,outpatient,dialysis,201810,2010
+cms_synthetic,outpatient,dialysis,201811,1994
+cms_synthetic,outpatient,dialysis,201812,2061
+cms_synthetic,outpatient,dialysis,201901,2152
+cms_synthetic,outpatient,dialysis,201902,1982
+cms_synthetic,outpatient,dialysis,201903,2185
+cms_synthetic,outpatient,dialysis,201904,2181
+cms_synthetic,outpatient,dialysis,201905,2282
+cms_synthetic,outpatient,dialysis,201906,2224
+cms_synthetic,outpatient,dialysis,201907,2401
+cms_synthetic,outpatient,dialysis,201908,2434
+cms_synthetic,outpatient,dialysis,201909,2364
+cms_synthetic,outpatient,dialysis,201910,2414
+cms_synthetic,outpatient,dialysis,201911,2391
+cms_synthetic,outpatient,dialysis,201912,2606
+cms_synthetic,outpatient,dialysis,202001,2616
+cms_synthetic,outpatient,dialysis,202002,2474
+cms_synthetic,outpatient,dialysis,202003,2643
+cms_synthetic,outpatient,dialysis,202004,2602
+cms_synthetic,outpatient,dialysis,202005,2758
+cms_synthetic,outpatient,dialysis,202006,2690
+cms_synthetic,outpatient,dialysis,202007,2853
+cms_synthetic,outpatient,dialysis,202008,2791
+cms_synthetic,outpatient,dialysis,202009,2744
+cms_synthetic,outpatient,dialysis,202010,2824
+cms_synthetic,outpatient,dialysis,202011,2739
+cms_synthetic,outpatient,dialysis,202012,2749
+cms_synthetic,outpatient,dialysis,202101,2836
+cms_synthetic,outpatient,dialysis,202102,2599
+cms_synthetic,outpatient,dialysis,202103,2904
+cms_synthetic,outpatient,dialysis,202104,2775
+cms_synthetic,outpatient,dialysis,202105,2902
+cms_synthetic,outpatient,dialysis,202106,2858
+cms_synthetic,outpatient,dialysis,202107,2969
+cms_synthetic,outpatient,dialysis,202108,3015
+cms_synthetic,outpatient,dialysis,202109,2945
+cms_synthetic,outpatient,dialysis,202110,3134
+cms_synthetic,outpatient,dialysis,202111,3066
+cms_synthetic,outpatient,dialysis,202112,3186
+cms_synthetic,outpatient,dialysis,202201,3246
+cms_synthetic,outpatient,dialysis,202202,2917
+cms_synthetic,outpatient,dialysis,202203,3245
+cms_synthetic,outpatient,dialysis,202204,3213
+cms_synthetic,outpatient,dialysis,202205,3280
+cms_synthetic,outpatient,dialysis,202206,3166
+cms_synthetic,outpatient,dialysis,202207,3347
+cms_synthetic,outpatient,dialysis,202208,3407
+cms_synthetic,outpatient,dialysis,202209,3366
+cms_synthetic,outpatient,dialysis,202210,3525
+cms_synthetic,outpatient,dialysis,202211,3401
+cms_synthetic,outpatient,dialysis,202212,3607
+cms_synthetic,outpatient,dialysis,202301,3670
+cms_synthetic,outpatient,dialysis,202302,3360
+cms_synthetic,outpatient,dialysis,202303,227
+cms_synthetic,outpatient,emergency department,201503,111
+cms_synthetic,outpatient,emergency department,201504,134
+cms_synthetic,outpatient,emergency department,201505,159
+cms_synthetic,outpatient,emergency department,201506,145
+cms_synthetic,outpatient,emergency department,201507,117
+cms_synthetic,outpatient,emergency department,201508,127
+cms_synthetic,outpatient,emergency department,201509,136
+cms_synthetic,outpatient,emergency department,201510,122
+cms_synthetic,outpatient,emergency department,201511,164
+cms_synthetic,outpatient,emergency department,201512,144
+cms_synthetic,outpatient,emergency department,201601,133
+cms_synthetic,outpatient,emergency department,201602,145
+cms_synthetic,outpatient,emergency department,201603,150
+cms_synthetic,outpatient,emergency department,201604,156
+cms_synthetic,outpatient,emergency department,201605,126
+cms_synthetic,outpatient,emergency department,201606,129
+cms_synthetic,outpatient,emergency department,201607,150
+cms_synthetic,outpatient,emergency department,201608,112
+cms_synthetic,outpatient,emergency department,201609,135
+cms_synthetic,outpatient,emergency department,201610,153
+cms_synthetic,outpatient,emergency department,201611,157
+cms_synthetic,outpatient,emergency department,201612,131
+cms_synthetic,outpatient,emergency department,201701,164
+cms_synthetic,outpatient,emergency department,201702,148
+cms_synthetic,outpatient,emergency department,201703,157
+cms_synthetic,outpatient,emergency department,201704,142
+cms_synthetic,outpatient,emergency department,201705,146
+cms_synthetic,outpatient,emergency department,201706,130
+cms_synthetic,outpatient,emergency department,201707,152
+cms_synthetic,outpatient,emergency department,201708,178
+cms_synthetic,outpatient,emergency department,201709,154
+cms_synthetic,outpatient,emergency department,201710,176
+cms_synthetic,outpatient,emergency department,201711,152
+cms_synthetic,outpatient,emergency department,201712,175
+cms_synthetic,outpatient,emergency department,201801,185
+cms_synthetic,outpatient,emergency department,201802,153
+cms_synthetic,outpatient,emergency department,201803,179
+cms_synthetic,outpatient,emergency department,201804,143
+cms_synthetic,outpatient,emergency department,201805,190
+cms_synthetic,outpatient,emergency department,201806,175
+cms_synthetic,outpatient,emergency department,201807,191
+cms_synthetic,outpatient,emergency department,201808,158
+cms_synthetic,outpatient,emergency department,201809,177
+cms_synthetic,outpatient,emergency department,201810,165
+cms_synthetic,outpatient,emergency department,201811,163
+cms_synthetic,outpatient,emergency department,201812,175
+cms_synthetic,outpatient,emergency department,201901,195
+cms_synthetic,outpatient,emergency department,201902,154
+cms_synthetic,outpatient,emergency department,201903,205
+cms_synthetic,outpatient,emergency department,201904,197
+cms_synthetic,outpatient,emergency department,201905,181
+cms_synthetic,outpatient,emergency department,201906,184
+cms_synthetic,outpatient,emergency department,201907,199
+cms_synthetic,outpatient,emergency department,201908,164
+cms_synthetic,outpatient,emergency department,201909,184
+cms_synthetic,outpatient,emergency department,201910,177
+cms_synthetic,outpatient,emergency department,201911,168
+cms_synthetic,outpatient,emergency department,201912,171
+cms_synthetic,outpatient,emergency department,202001,181
+cms_synthetic,outpatient,emergency department,202002,165
+cms_synthetic,outpatient,emergency department,202003,181
+cms_synthetic,outpatient,emergency department,202004,188
+cms_synthetic,outpatient,emergency department,202005,202
+cms_synthetic,outpatient,emergency department,202006,205
+cms_synthetic,outpatient,emergency department,202007,191
+cms_synthetic,outpatient,emergency department,202008,188
+cms_synthetic,outpatient,emergency department,202009,146
+cms_synthetic,outpatient,emergency department,202010,174
+cms_synthetic,outpatient,emergency department,202011,148
+cms_synthetic,outpatient,emergency department,202012,190
+cms_synthetic,outpatient,emergency department,202101,192
+cms_synthetic,outpatient,emergency department,202102,174
+cms_synthetic,outpatient,emergency department,202103,193
+cms_synthetic,outpatient,emergency department,202104,207
+cms_synthetic,outpatient,emergency department,202105,199
+cms_synthetic,outpatient,emergency department,202106,188
+cms_synthetic,outpatient,emergency department,202107,224
+cms_synthetic,outpatient,emergency department,202108,234
+cms_synthetic,outpatient,emergency department,202109,222
+cms_synthetic,outpatient,emergency department,202110,201
+cms_synthetic,outpatient,emergency department,202111,222
+cms_synthetic,outpatient,emergency department,202112,202
+cms_synthetic,outpatient,emergency department,202201,200
+cms_synthetic,outpatient,emergency department,202202,203
+cms_synthetic,outpatient,emergency department,202203,256
+cms_synthetic,outpatient,emergency department,202204,220
+cms_synthetic,outpatient,emergency department,202205,241
+cms_synthetic,outpatient,emergency department,202206,266
+cms_synthetic,outpatient,emergency department,202207,241
+cms_synthetic,outpatient,emergency department,202208,239
+cms_synthetic,outpatient,emergency department,202209,235
+cms_synthetic,outpatient,emergency department,202210,255
+cms_synthetic,outpatient,emergency department,202211,255
+cms_synthetic,outpatient,emergency department,202212,220
+cms_synthetic,outpatient,emergency department,202301,257
+cms_synthetic,outpatient,emergency department,202302,227
+cms_synthetic,outpatient,emergency department,202303,16
+cms_synthetic,outpatient,home health,201503,5
+cms_synthetic,outpatient,home health,201504,10
+cms_synthetic,outpatient,home health,201505,7
+cms_synthetic,outpatient,home health,201506,13
+cms_synthetic,outpatient,home health,201507,13
+cms_synthetic,outpatient,home health,201508,11
+cms_synthetic,outpatient,home health,201509,10
+cms_synthetic,outpatient,home health,201510,5
+cms_synthetic,outpatient,home health,201511,10
+cms_synthetic,outpatient,home health,201512,5
+cms_synthetic,outpatient,home health,201601,11
+cms_synthetic,outpatient,home health,201602,5
+cms_synthetic,outpatient,home health,201603,6
+cms_synthetic,outpatient,home health,201604,6
+cms_synthetic,outpatient,home health,201605,8
+cms_synthetic,outpatient,home health,201606,7
+cms_synthetic,outpatient,home health,201607,9
+cms_synthetic,outpatient,home health,201608,6
+cms_synthetic,outpatient,home health,201609,9
+cms_synthetic,outpatient,home health,201610,5
+cms_synthetic,outpatient,home health,201611,9
+cms_synthetic,outpatient,home health,201612,10
+cms_synthetic,outpatient,home health,201701,8
+cms_synthetic,outpatient,home health,201702,5
+cms_synthetic,outpatient,home health,201703,14
+cms_synthetic,outpatient,home health,201704,10
+cms_synthetic,outpatient,home health,201705,6
+cms_synthetic,outpatient,home health,201706,10
+cms_synthetic,outpatient,home health,201707,7
+cms_synthetic,outpatient,home health,201708,6
+cms_synthetic,outpatient,home health,201709,14
+cms_synthetic,outpatient,home health,201710,11
+cms_synthetic,outpatient,home health,201711,10
+cms_synthetic,outpatient,home health,201712,11
+cms_synthetic,outpatient,home health,201801,8
+cms_synthetic,outpatient,home health,201802,7
+cms_synthetic,outpatient,home health,201803,10
+cms_synthetic,outpatient,home health,201804,4
+cms_synthetic,outpatient,home health,201805,9
+cms_synthetic,outpatient,home health,201806,5
+cms_synthetic,outpatient,home health,201807,11
+cms_synthetic,outpatient,home health,201808,4
+cms_synthetic,outpatient,home health,201809,10
+cms_synthetic,outpatient,home health,201810,8
+cms_synthetic,outpatient,home health,201811,8
+cms_synthetic,outpatient,home health,201812,9
+cms_synthetic,outpatient,home health,201901,9
+cms_synthetic,outpatient,home health,201902,9
+cms_synthetic,outpatient,home health,201903,5
+cms_synthetic,outpatient,home health,201904,8
+cms_synthetic,outpatient,home health,201905,5
+cms_synthetic,outpatient,home health,201906,11
+cms_synthetic,outpatient,home health,201907,8
+cms_synthetic,outpatient,home health,201908,10
+cms_synthetic,outpatient,home health,201909,9
+cms_synthetic,outpatient,home health,201910,6
+cms_synthetic,outpatient,home health,201911,9
+cms_synthetic,outpatient,home health,201912,7
+cms_synthetic,outpatient,home health,202001,13
+cms_synthetic,outpatient,home health,202002,19
+cms_synthetic,outpatient,home health,202003,11
+cms_synthetic,outpatient,home health,202004,10
+cms_synthetic,outpatient,home health,202005,7
+cms_synthetic,outpatient,home health,202006,8
+cms_synthetic,outpatient,home health,202007,11
+cms_synthetic,outpatient,home health,202008,5
+cms_synthetic,outpatient,home health,202009,16
+cms_synthetic,outpatient,home health,202010,10
+cms_synthetic,outpatient,home health,202011,4
+cms_synthetic,outpatient,home health,202012,9
+cms_synthetic,outpatient,home health,202101,8
+cms_synthetic,outpatient,home health,202102,18
+cms_synthetic,outpatient,home health,202103,12
+cms_synthetic,outpatient,home health,202104,8
+cms_synthetic,outpatient,home health,202105,7
+cms_synthetic,outpatient,home health,202106,12
+cms_synthetic,outpatient,home health,202107,16
+cms_synthetic,outpatient,home health,202108,11
+cms_synthetic,outpatient,home health,202109,10
+cms_synthetic,outpatient,home health,202110,17
+cms_synthetic,outpatient,home health,202111,6
+cms_synthetic,outpatient,home health,202112,14
+cms_synthetic,outpatient,home health,202201,6
+cms_synthetic,outpatient,home health,202202,12
+cms_synthetic,outpatient,home health,202203,5
+cms_synthetic,outpatient,home health,202204,16
+cms_synthetic,outpatient,home health,202205,7
+cms_synthetic,outpatient,home health,202206,13
+cms_synthetic,outpatient,home health,202207,12
+cms_synthetic,outpatient,home health,202208,8
+cms_synthetic,outpatient,home health,202209,14
+cms_synthetic,outpatient,home health,202210,9
+cms_synthetic,outpatient,home health,202211,12
+cms_synthetic,outpatient,home health,202212,11
+cms_synthetic,outpatient,home health,202301,8
+cms_synthetic,outpatient,home health,202302,14
+cms_synthetic,outpatient,home health,202303,1
+cms_synthetic,outpatient,outpatient hospice,201501,1
+cms_synthetic,outpatient,outpatient hospice,201502,4
+cms_synthetic,outpatient,outpatient hospice,201503,13
+cms_synthetic,outpatient,outpatient hospice,201504,8
+cms_synthetic,outpatient,outpatient hospice,201505,8
+cms_synthetic,outpatient,outpatient hospice,201506,11
+cms_synthetic,outpatient,outpatient hospice,201507,6
+cms_synthetic,outpatient,outpatient hospice,201508,6
+cms_synthetic,outpatient,outpatient hospice,201509,8
+cms_synthetic,outpatient,outpatient hospice,201510,12
+cms_synthetic,outpatient,outpatient hospice,201511,6
+cms_synthetic,outpatient,outpatient hospice,201512,9
+cms_synthetic,outpatient,outpatient hospice,201601,7
+cms_synthetic,outpatient,outpatient hospice,201602,7
+cms_synthetic,outpatient,outpatient hospice,201603,10
+cms_synthetic,outpatient,outpatient hospice,201604,9
+cms_synthetic,outpatient,outpatient hospice,201605,7
+cms_synthetic,outpatient,outpatient hospice,201606,10
+cms_synthetic,outpatient,outpatient hospice,201607,9
+cms_synthetic,outpatient,outpatient hospice,201608,5
+cms_synthetic,outpatient,outpatient hospice,201609,8
+cms_synthetic,outpatient,outpatient hospice,201610,14
+cms_synthetic,outpatient,outpatient hospice,201611,10
+cms_synthetic,outpatient,outpatient hospice,201612,11
+cms_synthetic,outpatient,outpatient hospice,201701,6
+cms_synthetic,outpatient,outpatient hospice,201702,7
+cms_synthetic,outpatient,outpatient hospice,201703,12
+cms_synthetic,outpatient,outpatient hospice,201704,8
+cms_synthetic,outpatient,outpatient hospice,201705,5
+cms_synthetic,outpatient,outpatient hospice,201706,8
+cms_synthetic,outpatient,outpatient hospice,201707,9
+cms_synthetic,outpatient,outpatient hospice,201708,6
+cms_synthetic,outpatient,outpatient hospice,201709,12
+cms_synthetic,outpatient,outpatient hospice,201710,7
+cms_synthetic,outpatient,outpatient hospice,201711,5
+cms_synthetic,outpatient,outpatient hospice,201712,10
+cms_synthetic,outpatient,outpatient hospice,201801,9
+cms_synthetic,outpatient,outpatient hospice,201802,8
+cms_synthetic,outpatient,outpatient hospice,201803,13
+cms_synthetic,outpatient,outpatient hospice,201804,11
+cms_synthetic,outpatient,outpatient hospice,201805,13
+cms_synthetic,outpatient,outpatient hospice,201806,14
+cms_synthetic,outpatient,outpatient hospice,201807,12
+cms_synthetic,outpatient,outpatient hospice,201808,23
+cms_synthetic,outpatient,outpatient hospice,201809,15
+cms_synthetic,outpatient,outpatient hospice,201810,14
+cms_synthetic,outpatient,outpatient hospice,201811,16
+cms_synthetic,outpatient,outpatient hospice,201812,15
+cms_synthetic,outpatient,outpatient hospice,201901,7
+cms_synthetic,outpatient,outpatient hospice,201902,8
+cms_synthetic,outpatient,outpatient hospice,201903,12
+cms_synthetic,outpatient,outpatient hospice,201904,14
+cms_synthetic,outpatient,outpatient hospice,201905,15
+cms_synthetic,outpatient,outpatient hospice,201906,11
+cms_synthetic,outpatient,outpatient hospice,201907,18
+cms_synthetic,outpatient,outpatient hospice,201908,15
+cms_synthetic,outpatient,outpatient hospice,201909,19
+cms_synthetic,outpatient,outpatient hospice,201910,9
+cms_synthetic,outpatient,outpatient hospice,201911,8
+cms_synthetic,outpatient,outpatient hospice,201912,8
+cms_synthetic,outpatient,outpatient hospice,202001,15
+cms_synthetic,outpatient,outpatient hospice,202002,14
+cms_synthetic,outpatient,outpatient hospice,202003,8
+cms_synthetic,outpatient,outpatient hospice,202004,13
+cms_synthetic,outpatient,outpatient hospice,202005,8
+cms_synthetic,outpatient,outpatient hospice,202006,12
+cms_synthetic,outpatient,outpatient hospice,202007,12
+cms_synthetic,outpatient,outpatient hospice,202008,12
+cms_synthetic,outpatient,outpatient hospice,202009,8
+cms_synthetic,outpatient,outpatient hospice,202010,12
+cms_synthetic,outpatient,outpatient hospice,202011,16
+cms_synthetic,outpatient,outpatient hospice,202012,16
+cms_synthetic,outpatient,outpatient hospice,202101,13
+cms_synthetic,outpatient,outpatient hospice,202102,9
+cms_synthetic,outpatient,outpatient hospice,202103,19
+cms_synthetic,outpatient,outpatient hospice,202104,13
+cms_synthetic,outpatient,outpatient hospice,202105,13
+cms_synthetic,outpatient,outpatient hospice,202106,10
+cms_synthetic,outpatient,outpatient hospice,202107,13
+cms_synthetic,outpatient,outpatient hospice,202108,13
+cms_synthetic,outpatient,outpatient hospice,202109,19
+cms_synthetic,outpatient,outpatient hospice,202110,13
+cms_synthetic,outpatient,outpatient hospice,202111,15
+cms_synthetic,outpatient,outpatient hospice,202112,12
+cms_synthetic,outpatient,outpatient hospice,202201,14
+cms_synthetic,outpatient,outpatient hospice,202202,12
+cms_synthetic,outpatient,outpatient hospice,202203,15
+cms_synthetic,outpatient,outpatient hospice,202204,11
+cms_synthetic,outpatient,outpatient hospice,202205,14
+cms_synthetic,outpatient,outpatient hospice,202206,17
+cms_synthetic,outpatient,outpatient hospice,202207,11
+cms_synthetic,outpatient,outpatient hospice,202208,8
+cms_synthetic,outpatient,outpatient hospice,202209,12
+cms_synthetic,outpatient,outpatient hospice,202210,9
+cms_synthetic,outpatient,outpatient hospice,202211,10
+cms_synthetic,outpatient,outpatient hospice,202212,14
+cms_synthetic,outpatient,outpatient hospice,202301,10
+cms_synthetic,outpatient,outpatient hospice,202302,9
+cms_synthetic,outpatient,outpatient hospital or clinic,201503,566
+cms_synthetic,outpatient,outpatient hospital or clinic,201504,767
+cms_synthetic,outpatient,outpatient hospital or clinic,201505,850
+cms_synthetic,outpatient,outpatient hospital or clinic,201506,741
+cms_synthetic,outpatient,outpatient hospital or clinic,201507,808
+cms_synthetic,outpatient,outpatient hospital or clinic,201508,833
+cms_synthetic,outpatient,outpatient hospital or clinic,201509,753
+cms_synthetic,outpatient,outpatient hospital or clinic,201510,850
+cms_synthetic,outpatient,outpatient hospital or clinic,201511,792
+cms_synthetic,outpatient,outpatient hospital or clinic,201512,757
+cms_synthetic,outpatient,outpatient hospital or clinic,201601,815
+cms_synthetic,outpatient,outpatient hospital or clinic,201602,770
+cms_synthetic,outpatient,outpatient hospital or clinic,201603,847
+cms_synthetic,outpatient,outpatient hospital or clinic,201604,806
+cms_synthetic,outpatient,outpatient hospital or clinic,201605,792
+cms_synthetic,outpatient,outpatient hospital or clinic,201606,739
+cms_synthetic,outpatient,outpatient hospital or clinic,201607,897
+cms_synthetic,outpatient,outpatient hospital or clinic,201608,875
+cms_synthetic,outpatient,outpatient hospital or clinic,201609,790
+cms_synthetic,outpatient,outpatient hospital or clinic,201610,815
+cms_synthetic,outpatient,outpatient hospital or clinic,201611,846
+cms_synthetic,outpatient,outpatient hospital or clinic,201612,828
+cms_synthetic,outpatient,outpatient hospital or clinic,201701,842
+cms_synthetic,outpatient,outpatient hospital or clinic,201702,759
+cms_synthetic,outpatient,outpatient hospital or clinic,201703,898
+cms_synthetic,outpatient,outpatient hospital or clinic,201704,820
+cms_synthetic,outpatient,outpatient hospital or clinic,201705,878
+cms_synthetic,outpatient,outpatient hospital or clinic,201706,866
+cms_synthetic,outpatient,outpatient hospital or clinic,201707,892
+cms_synthetic,outpatient,outpatient hospital or clinic,201708,938
+cms_synthetic,outpatient,outpatient hospital or clinic,201709,821
+cms_synthetic,outpatient,outpatient hospital or clinic,201710,931
+cms_synthetic,outpatient,outpatient hospital or clinic,201711,816
+cms_synthetic,outpatient,outpatient hospital or clinic,201712,873
+cms_synthetic,outpatient,outpatient hospital or clinic,201801,945
+cms_synthetic,outpatient,outpatient hospital or clinic,201802,774
+cms_synthetic,outpatient,outpatient hospital or clinic,201803,964
+cms_synthetic,outpatient,outpatient hospital or clinic,201804,900
+cms_synthetic,outpatient,outpatient hospital or clinic,201805,938
+cms_synthetic,outpatient,outpatient hospital or clinic,201806,931
+cms_synthetic,outpatient,outpatient hospital or clinic,201807,888
+cms_synthetic,outpatient,outpatient hospital or clinic,201808,1003
+cms_synthetic,outpatient,outpatient hospital or clinic,201809,919
+cms_synthetic,outpatient,outpatient hospital or clinic,201810,959
+cms_synthetic,outpatient,outpatient hospital or clinic,201811,958
+cms_synthetic,outpatient,outpatient hospital or clinic,201812,964
+cms_synthetic,outpatient,outpatient hospital or clinic,201901,960
+cms_synthetic,outpatient,outpatient hospital or clinic,201902,874
+cms_synthetic,outpatient,outpatient hospital or clinic,201903,1050
+cms_synthetic,outpatient,outpatient hospital or clinic,201904,1017
+cms_synthetic,outpatient,outpatient hospital or clinic,201905,981
+cms_synthetic,outpatient,outpatient hospital or clinic,201906,1006
+cms_synthetic,outpatient,outpatient hospital or clinic,201907,1006
+cms_synthetic,outpatient,outpatient hospital or clinic,201908,1021
+cms_synthetic,outpatient,outpatient hospital or clinic,201909,969
+cms_synthetic,outpatient,outpatient hospital or clinic,201910,1021
+cms_synthetic,outpatient,outpatient hospital or clinic,201911,989
+cms_synthetic,outpatient,outpatient hospital or clinic,201912,1004
+cms_synthetic,outpatient,outpatient hospital or clinic,202001,1042
+cms_synthetic,outpatient,outpatient hospital or clinic,202002,972
+cms_synthetic,outpatient,outpatient hospital or clinic,202003,1025
+cms_synthetic,outpatient,outpatient hospital or clinic,202004,1043
+cms_synthetic,outpatient,outpatient hospital or clinic,202005,1052
+cms_synthetic,outpatient,outpatient hospital or clinic,202006,1006
+cms_synthetic,outpatient,outpatient hospital or clinic,202007,1071
+cms_synthetic,outpatient,outpatient hospital or clinic,202008,1112
+cms_synthetic,outpatient,outpatient hospital or clinic,202009,990
+cms_synthetic,outpatient,outpatient hospital or clinic,202010,1088
+cms_synthetic,outpatient,outpatient hospital or clinic,202011,1111
+cms_synthetic,outpatient,outpatient hospital or clinic,202012,1149
+cms_synthetic,outpatient,outpatient hospital or clinic,202101,1627
+cms_synthetic,outpatient,outpatient hospital or clinic,202102,2366
+cms_synthetic,outpatient,outpatient hospital or clinic,202103,3061
+cms_synthetic,outpatient,outpatient hospital or clinic,202104,2630
+cms_synthetic,outpatient,outpatient hospital or clinic,202105,2041
+cms_synthetic,outpatient,outpatient hospital or clinic,202106,1461
+cms_synthetic,outpatient,outpatient hospital or clinic,202107,1379
+cms_synthetic,outpatient,outpatient hospital or clinic,202108,1418
+cms_synthetic,outpatient,outpatient hospital or clinic,202109,1282
+cms_synthetic,outpatient,outpatient hospital or clinic,202110,1271
+cms_synthetic,outpatient,outpatient hospital or clinic,202111,1328
+cms_synthetic,outpatient,outpatient hospital or clinic,202112,1198
+cms_synthetic,outpatient,outpatient hospital or clinic,202201,1239
+cms_synthetic,outpatient,outpatient hospital or clinic,202202,1095
+cms_synthetic,outpatient,outpatient hospital or clinic,202203,1225
+cms_synthetic,outpatient,outpatient hospital or clinic,202204,1192
+cms_synthetic,outpatient,outpatient hospital or clinic,202205,1203
+cms_synthetic,outpatient,outpatient hospital or clinic,202206,1201
+cms_synthetic,outpatient,outpatient hospital or clinic,202207,1184
+cms_synthetic,outpatient,outpatient hospital or clinic,202208,1302
+cms_synthetic,outpatient,outpatient hospital or clinic,202209,1239
+cms_synthetic,outpatient,outpatient hospital or clinic,202210,1250
+cms_synthetic,outpatient,outpatient hospital or clinic,202211,1164
+cms_synthetic,outpatient,outpatient hospital or clinic,202212,1236
+cms_synthetic,outpatient,outpatient hospital or clinic,202301,1275
+cms_synthetic,outpatient,outpatient hospital or clinic,202302,1178
+cms_synthetic,outpatient,outpatient hospital or clinic,202303,62
+cms_synthetic,outpatient,outpatient hospital or clinic,202306,1
+cms_synthetic,outpatient,outpatient hospital or clinic,202307,1
+cms_synthetic,outpatient,outpatient hospital or clinic,202401,1
+cms_synthetic,outpatient,outpatient psych,201503,222
+cms_synthetic,outpatient,outpatient psych,201504,295
+cms_synthetic,outpatient,outpatient psych,201505,303
+cms_synthetic,outpatient,outpatient psych,201506,324
+cms_synthetic,outpatient,outpatient psych,201507,292
+cms_synthetic,outpatient,outpatient psych,201508,305
+cms_synthetic,outpatient,outpatient psych,201509,312
+cms_synthetic,outpatient,outpatient psych,201510,334
+cms_synthetic,outpatient,outpatient psych,201511,308
+cms_synthetic,outpatient,outpatient psych,201512,302
+cms_synthetic,outpatient,outpatient psych,201601,296
+cms_synthetic,outpatient,outpatient psych,201602,308
+cms_synthetic,outpatient,outpatient psych,201603,310
+cms_synthetic,outpatient,outpatient psych,201604,301
+cms_synthetic,outpatient,outpatient psych,201605,318
+cms_synthetic,outpatient,outpatient psych,201606,289
+cms_synthetic,outpatient,outpatient psych,201607,317
+cms_synthetic,outpatient,outpatient psych,201608,287
+cms_synthetic,outpatient,outpatient psych,201609,316
+cms_synthetic,outpatient,outpatient psych,201610,282
+cms_synthetic,outpatient,outpatient psych,201611,319
+cms_synthetic,outpatient,outpatient psych,201612,310
+cms_synthetic,outpatient,outpatient psych,201701,284
+cms_synthetic,outpatient,outpatient psych,201702,264
+cms_synthetic,outpatient,outpatient psych,201703,309
+cms_synthetic,outpatient,outpatient psych,201704,313
+cms_synthetic,outpatient,outpatient psych,201705,323
+cms_synthetic,outpatient,outpatient psych,201706,305
+cms_synthetic,outpatient,outpatient psych,201707,341
+cms_synthetic,outpatient,outpatient psych,201708,308
+cms_synthetic,outpatient,outpatient psych,201709,278
+cms_synthetic,outpatient,outpatient psych,201710,334
+cms_synthetic,outpatient,outpatient psych,201711,350
+cms_synthetic,outpatient,outpatient psych,201712,310
+cms_synthetic,outpatient,outpatient psych,201801,355
+cms_synthetic,outpatient,outpatient psych,201802,310
+cms_synthetic,outpatient,outpatient psych,201803,329
+cms_synthetic,outpatient,outpatient psych,201804,389
+cms_synthetic,outpatient,outpatient psych,201805,358
+cms_synthetic,outpatient,outpatient psych,201806,350
+cms_synthetic,outpatient,outpatient psych,201807,310
+cms_synthetic,outpatient,outpatient psych,201808,303
+cms_synthetic,outpatient,outpatient psych,201809,299
+cms_synthetic,outpatient,outpatient psych,201810,370
+cms_synthetic,outpatient,outpatient psych,201811,331
+cms_synthetic,outpatient,outpatient psych,201812,361
+cms_synthetic,outpatient,outpatient psych,201901,344
+cms_synthetic,outpatient,outpatient psych,201902,357
+cms_synthetic,outpatient,outpatient psych,201903,387
+cms_synthetic,outpatient,outpatient psych,201904,367
+cms_synthetic,outpatient,outpatient psych,201905,367
+cms_synthetic,outpatient,outpatient psych,201906,422
+cms_synthetic,outpatient,outpatient psych,201907,406
+cms_synthetic,outpatient,outpatient psych,201908,394
+cms_synthetic,outpatient,outpatient psych,201909,368
+cms_synthetic,outpatient,outpatient psych,201910,418
+cms_synthetic,outpatient,outpatient psych,201911,422
+cms_synthetic,outpatient,outpatient psych,201912,434
+cms_synthetic,outpatient,outpatient psych,202001,424
+cms_synthetic,outpatient,outpatient psych,202002,391
+cms_synthetic,outpatient,outpatient psych,202003,440
+cms_synthetic,outpatient,outpatient psych,202004,455
+cms_synthetic,outpatient,outpatient psych,202005,446
+cms_synthetic,outpatient,outpatient psych,202006,407
+cms_synthetic,outpatient,outpatient psych,202007,430
+cms_synthetic,outpatient,outpatient psych,202008,513
+cms_synthetic,outpatient,outpatient psych,202009,442
+cms_synthetic,outpatient,outpatient psych,202010,470
+cms_synthetic,outpatient,outpatient psych,202011,451
+cms_synthetic,outpatient,outpatient psych,202012,498
+cms_synthetic,outpatient,outpatient psych,202101,605
+cms_synthetic,outpatient,outpatient psych,202102,798
+cms_synthetic,outpatient,outpatient psych,202103,1094
+cms_synthetic,outpatient,outpatient psych,202104,1018
+cms_synthetic,outpatient,outpatient psych,202105,791
+cms_synthetic,outpatient,outpatient psych,202106,576
+cms_synthetic,outpatient,outpatient psych,202107,561
+cms_synthetic,outpatient,outpatient psych,202108,594
+cms_synthetic,outpatient,outpatient psych,202109,563
+cms_synthetic,outpatient,outpatient psych,202110,578
+cms_synthetic,outpatient,outpatient psych,202111,559
+cms_synthetic,outpatient,outpatient psych,202112,504
+cms_synthetic,outpatient,outpatient psych,202201,482
+cms_synthetic,outpatient,outpatient psych,202202,430
+cms_synthetic,outpatient,outpatient psych,202203,507
+cms_synthetic,outpatient,outpatient psych,202204,563
+cms_synthetic,outpatient,outpatient psych,202205,515
+cms_synthetic,outpatient,outpatient psych,202206,479
+cms_synthetic,outpatient,outpatient psych,202207,547
+cms_synthetic,outpatient,outpatient psych,202208,548
+cms_synthetic,outpatient,outpatient psych,202209,511
+cms_synthetic,outpatient,outpatient psych,202210,584
+cms_synthetic,outpatient,outpatient psych,202211,559
+cms_synthetic,outpatient,outpatient psych,202212,541
+cms_synthetic,outpatient,outpatient psych,202301,537
+cms_synthetic,outpatient,outpatient psych,202302,495
+cms_synthetic,outpatient,outpatient psych,202303,31
+cms_synthetic,outpatient,outpatient psych,202305,1
+cms_synthetic,outpatient,outpatient psych,202309,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201504,3
+cms_synthetic,outpatient,outpatient pt/ot/st,201505,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201506,5
+cms_synthetic,outpatient,outpatient pt/ot/st,201507,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201509,6
+cms_synthetic,outpatient,outpatient pt/ot/st,201510,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201511,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201512,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201601,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201602,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201603,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201604,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201605,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201607,5
+cms_synthetic,outpatient,outpatient pt/ot/st,201608,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201609,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201611,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201612,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201701,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201702,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201703,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201704,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201706,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201707,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201708,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201709,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201711,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201712,6
+cms_synthetic,outpatient,outpatient pt/ot/st,201801,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201802,3
+cms_synthetic,outpatient,outpatient pt/ot/st,201803,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201805,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201806,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201807,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201808,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201809,3
+cms_synthetic,outpatient,outpatient pt/ot/st,201810,5
+cms_synthetic,outpatient,outpatient pt/ot/st,201811,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201812,3
+cms_synthetic,outpatient,outpatient pt/ot/st,201902,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201903,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201904,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201905,3
+cms_synthetic,outpatient,outpatient pt/ot/st,201906,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201907,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201908,2
+cms_synthetic,outpatient,outpatient pt/ot/st,201909,1
+cms_synthetic,outpatient,outpatient pt/ot/st,201910,3
+cms_synthetic,outpatient,outpatient pt/ot/st,201911,4
+cms_synthetic,outpatient,outpatient pt/ot/st,201912,1
+cms_synthetic,outpatient,outpatient pt/ot/st,202001,1
+cms_synthetic,outpatient,outpatient pt/ot/st,202002,1
+cms_synthetic,outpatient,outpatient pt/ot/st,202003,2
+cms_synthetic,outpatient,outpatient pt/ot/st,202004,2
+cms_synthetic,outpatient,outpatient pt/ot/st,202005,2
+cms_synthetic,outpatient,outpatient pt/ot/st,202006,3
+cms_synthetic,outpatient,outpatient pt/ot/st,202007,1
+cms_synthetic,outpatient,outpatient pt/ot/st,202008,5
+cms_synthetic,outpatient,outpatient pt/ot/st,202009,3
+cms_synthetic,outpatient,outpatient pt/ot/st,202010,1
+cms_synthetic,outpatient,outpatient pt/ot/st,202011,1
+cms_synthetic,outpatient,outpatient pt/ot/st,202012,3
+cms_synthetic,outpatient,outpatient pt/ot/st,202101,1
+cms_synthetic,outpatient,outpatient pt/ot/st,202102,1
+cms_synthetic,outpatient,outpatient pt/ot/st,202103,3
+cms_synthetic,outpatient,outpatient pt/ot/st,202104,3
+cms_synthetic,outpatient,outpatient pt/ot/st,202105,2
+cms_synthetic,outpatient,outpatient pt/ot/st,202106,3
+cms_synthetic,outpatient,outpatient pt/ot/st,202108,3
+cms_synthetic,outpatient,outpatient pt/ot/st,202109,5
+cms_synthetic,outpatient,outpatient pt/ot/st,202110,1
+cms_synthetic,outpatient,outpatient pt/ot/st,202111,7
+cms_synthetic,outpatient,outpatient pt/ot/st,202112,4
+cms_synthetic,outpatient,outpatient pt/ot/st,202201,7
+cms_synthetic,outpatient,outpatient pt/ot/st,202202,5
+cms_synthetic,outpatient,outpatient pt/ot/st,202203,3
+cms_synthetic,outpatient,outpatient pt/ot/st,202204,2
+cms_synthetic,outpatient,outpatient pt/ot/st,202205,6
+cms_synthetic,outpatient,outpatient pt/ot/st,202206,4
+cms_synthetic,outpatient,outpatient pt/ot/st,202207,5
+cms_synthetic,outpatient,outpatient pt/ot/st,202208,5
+cms_synthetic,outpatient,outpatient pt/ot/st,202209,4
+cms_synthetic,outpatient,outpatient pt/ot/st,202210,6
+cms_synthetic,outpatient,outpatient pt/ot/st,202211,3
+cms_synthetic,outpatient,outpatient pt/ot/st,202212,2
+cms_synthetic,outpatient,outpatient pt/ot/st,202301,8
+cms_synthetic,outpatient,outpatient pt/ot/st,202302,6
+cms_synthetic,outpatient,outpatient pt/ot/st,202303,1
+cms_synthetic,outpatient,outpatient radiology,201503,6
+cms_synthetic,outpatient,outpatient radiology,201504,12
+cms_synthetic,outpatient,outpatient radiology,201505,12
+cms_synthetic,outpatient,outpatient radiology,201506,9
+cms_synthetic,outpatient,outpatient radiology,201507,12
+cms_synthetic,outpatient,outpatient radiology,201508,15
+cms_synthetic,outpatient,outpatient radiology,201509,16
+cms_synthetic,outpatient,outpatient radiology,201510,15
+cms_synthetic,outpatient,outpatient radiology,201511,15
+cms_synthetic,outpatient,outpatient radiology,201512,19
+cms_synthetic,outpatient,outpatient radiology,201601,13
+cms_synthetic,outpatient,outpatient radiology,201602,12
+cms_synthetic,outpatient,outpatient radiology,201603,8
+cms_synthetic,outpatient,outpatient radiology,201604,12
+cms_synthetic,outpatient,outpatient radiology,201605,13
+cms_synthetic,outpatient,outpatient radiology,201606,10
+cms_synthetic,outpatient,outpatient radiology,201607,14
+cms_synthetic,outpatient,outpatient radiology,201608,9
+cms_synthetic,outpatient,outpatient radiology,201609,20
+cms_synthetic,outpatient,outpatient radiology,201610,9
+cms_synthetic,outpatient,outpatient radiology,201611,20
+cms_synthetic,outpatient,outpatient radiology,201612,14
+cms_synthetic,outpatient,outpatient radiology,201701,17
+cms_synthetic,outpatient,outpatient radiology,201702,10
+cms_synthetic,outpatient,outpatient radiology,201703,19
+cms_synthetic,outpatient,outpatient radiology,201704,8
+cms_synthetic,outpatient,outpatient radiology,201705,12
+cms_synthetic,outpatient,outpatient radiology,201706,13
+cms_synthetic,outpatient,outpatient radiology,201707,8
+cms_synthetic,outpatient,outpatient radiology,201708,16
+cms_synthetic,outpatient,outpatient radiology,201709,12
+cms_synthetic,outpatient,outpatient radiology,201710,20
+cms_synthetic,outpatient,outpatient radiology,201711,13
+cms_synthetic,outpatient,outpatient radiology,201712,22
+cms_synthetic,outpatient,outpatient radiology,201801,16
+cms_synthetic,outpatient,outpatient radiology,201802,9
+cms_synthetic,outpatient,outpatient radiology,201803,18
+cms_synthetic,outpatient,outpatient radiology,201804,12
+cms_synthetic,outpatient,outpatient radiology,201805,12
+cms_synthetic,outpatient,outpatient radiology,201806,12
+cms_synthetic,outpatient,outpatient radiology,201807,18
+cms_synthetic,outpatient,outpatient radiology,201808,18
+cms_synthetic,outpatient,outpatient radiology,201809,13
+cms_synthetic,outpatient,outpatient radiology,201810,19
+cms_synthetic,outpatient,outpatient radiology,201811,21
+cms_synthetic,outpatient,outpatient radiology,201812,19
+cms_synthetic,outpatient,outpatient radiology,201901,10
+cms_synthetic,outpatient,outpatient radiology,201902,16
+cms_synthetic,outpatient,outpatient radiology,201903,10
+cms_synthetic,outpatient,outpatient radiology,201904,19
+cms_synthetic,outpatient,outpatient radiology,201905,10
+cms_synthetic,outpatient,outpatient radiology,201906,8
+cms_synthetic,outpatient,outpatient radiology,201907,17
+cms_synthetic,outpatient,outpatient radiology,201908,16
+cms_synthetic,outpatient,outpatient radiology,201909,20
+cms_synthetic,outpatient,outpatient radiology,201910,14
+cms_synthetic,outpatient,outpatient radiology,201911,10
+cms_synthetic,outpatient,outpatient radiology,201912,16
+cms_synthetic,outpatient,outpatient radiology,202001,23
+cms_synthetic,outpatient,outpatient radiology,202002,10
+cms_synthetic,outpatient,outpatient radiology,202003,12
+cms_synthetic,outpatient,outpatient radiology,202004,12
+cms_synthetic,outpatient,outpatient radiology,202005,10
+cms_synthetic,outpatient,outpatient radiology,202006,14
+cms_synthetic,outpatient,outpatient radiology,202007,16
+cms_synthetic,outpatient,outpatient radiology,202008,23
+cms_synthetic,outpatient,outpatient radiology,202009,21
+cms_synthetic,outpatient,outpatient radiology,202010,12
+cms_synthetic,outpatient,outpatient radiology,202011,16
+cms_synthetic,outpatient,outpatient radiology,202012,13
+cms_synthetic,outpatient,outpatient radiology,202101,15
+cms_synthetic,outpatient,outpatient radiology,202102,7
+cms_synthetic,outpatient,outpatient radiology,202103,12
+cms_synthetic,outpatient,outpatient radiology,202104,17
+cms_synthetic,outpatient,outpatient radiology,202105,9
+cms_synthetic,outpatient,outpatient radiology,202106,12
+cms_synthetic,outpatient,outpatient radiology,202107,19
+cms_synthetic,outpatient,outpatient radiology,202108,30
+cms_synthetic,outpatient,outpatient radiology,202109,22
+cms_synthetic,outpatient,outpatient radiology,202110,17
+cms_synthetic,outpatient,outpatient radiology,202111,12
+cms_synthetic,outpatient,outpatient radiology,202112,15
+cms_synthetic,outpatient,outpatient radiology,202201,15
+cms_synthetic,outpatient,outpatient radiology,202202,13
+cms_synthetic,outpatient,outpatient radiology,202203,20
+cms_synthetic,outpatient,outpatient radiology,202204,17
+cms_synthetic,outpatient,outpatient radiology,202205,9
+cms_synthetic,outpatient,outpatient radiology,202206,22
+cms_synthetic,outpatient,outpatient radiology,202207,20
+cms_synthetic,outpatient,outpatient radiology,202208,25
+cms_synthetic,outpatient,outpatient radiology,202209,20
+cms_synthetic,outpatient,outpatient radiology,202210,14
+cms_synthetic,outpatient,outpatient radiology,202211,14
+cms_synthetic,outpatient,outpatient radiology,202212,21
+cms_synthetic,outpatient,outpatient radiology,202301,19
+cms_synthetic,outpatient,outpatient radiology,202302,14
+cms_synthetic,outpatient,outpatient radiology,202303,2
+cms_synthetic,outpatient,outpatient rehabilitation,201503,133
+cms_synthetic,outpatient,outpatient rehabilitation,201504,211
+cms_synthetic,outpatient,outpatient rehabilitation,201505,242
+cms_synthetic,outpatient,outpatient rehabilitation,201506,250
+cms_synthetic,outpatient,outpatient rehabilitation,201507,242
+cms_synthetic,outpatient,outpatient rehabilitation,201508,200
+cms_synthetic,outpatient,outpatient rehabilitation,201509,228
+cms_synthetic,outpatient,outpatient rehabilitation,201510,257
+cms_synthetic,outpatient,outpatient rehabilitation,201511,222
+cms_synthetic,outpatient,outpatient rehabilitation,201512,236
+cms_synthetic,outpatient,outpatient rehabilitation,201601,222
+cms_synthetic,outpatient,outpatient rehabilitation,201602,199
+cms_synthetic,outpatient,outpatient rehabilitation,201603,241
+cms_synthetic,outpatient,outpatient rehabilitation,201604,221
+cms_synthetic,outpatient,outpatient rehabilitation,201605,229
+cms_synthetic,outpatient,outpatient rehabilitation,201606,279
+cms_synthetic,outpatient,outpatient rehabilitation,201607,248
+cms_synthetic,outpatient,outpatient rehabilitation,201608,217
+cms_synthetic,outpatient,outpatient rehabilitation,201609,203
+cms_synthetic,outpatient,outpatient rehabilitation,201610,221
+cms_synthetic,outpatient,outpatient rehabilitation,201611,227
+cms_synthetic,outpatient,outpatient rehabilitation,201612,241
+cms_synthetic,outpatient,outpatient rehabilitation,201701,241
+cms_synthetic,outpatient,outpatient rehabilitation,201702,232
+cms_synthetic,outpatient,outpatient rehabilitation,201703,221
+cms_synthetic,outpatient,outpatient rehabilitation,201704,207
+cms_synthetic,outpatient,outpatient rehabilitation,201705,221
+cms_synthetic,outpatient,outpatient rehabilitation,201706,241
+cms_synthetic,outpatient,outpatient rehabilitation,201707,228
+cms_synthetic,outpatient,outpatient rehabilitation,201708,232
+cms_synthetic,outpatient,outpatient rehabilitation,201709,252
+cms_synthetic,outpatient,outpatient rehabilitation,201710,226
+cms_synthetic,outpatient,outpatient rehabilitation,201711,241
+cms_synthetic,outpatient,outpatient rehabilitation,201712,276
+cms_synthetic,outpatient,outpatient rehabilitation,201801,258
+cms_synthetic,outpatient,outpatient rehabilitation,201802,226
+cms_synthetic,outpatient,outpatient rehabilitation,201803,266
+cms_synthetic,outpatient,outpatient rehabilitation,201804,274
+cms_synthetic,outpatient,outpatient rehabilitation,201805,247
+cms_synthetic,outpatient,outpatient rehabilitation,201806,262
+cms_synthetic,outpatient,outpatient rehabilitation,201807,244
+cms_synthetic,outpatient,outpatient rehabilitation,201808,258
+cms_synthetic,outpatient,outpatient rehabilitation,201809,250
+cms_synthetic,outpatient,outpatient rehabilitation,201810,292
+cms_synthetic,outpatient,outpatient rehabilitation,201811,255
+cms_synthetic,outpatient,outpatient rehabilitation,201812,305
+cms_synthetic,outpatient,outpatient rehabilitation,201901,306
+cms_synthetic,outpatient,outpatient rehabilitation,201902,267
+cms_synthetic,outpatient,outpatient rehabilitation,201903,305
+cms_synthetic,outpatient,outpatient rehabilitation,201904,288
+cms_synthetic,outpatient,outpatient rehabilitation,201905,293
+cms_synthetic,outpatient,outpatient rehabilitation,201906,286
+cms_synthetic,outpatient,outpatient rehabilitation,201907,306
+cms_synthetic,outpatient,outpatient rehabilitation,201908,309
+cms_synthetic,outpatient,outpatient rehabilitation,201909,304
+cms_synthetic,outpatient,outpatient rehabilitation,201910,329
+cms_synthetic,outpatient,outpatient rehabilitation,201911,309
+cms_synthetic,outpatient,outpatient rehabilitation,201912,346
+cms_synthetic,outpatient,outpatient rehabilitation,202001,339
+cms_synthetic,outpatient,outpatient rehabilitation,202002,305
+cms_synthetic,outpatient,outpatient rehabilitation,202003,303
+cms_synthetic,outpatient,outpatient rehabilitation,202004,316
+cms_synthetic,outpatient,outpatient rehabilitation,202005,331
+cms_synthetic,outpatient,outpatient rehabilitation,202006,307
+cms_synthetic,outpatient,outpatient rehabilitation,202007,374
+cms_synthetic,outpatient,outpatient rehabilitation,202008,326
+cms_synthetic,outpatient,outpatient rehabilitation,202009,324
+cms_synthetic,outpatient,outpatient rehabilitation,202010,332
+cms_synthetic,outpatient,outpatient rehabilitation,202011,324
+cms_synthetic,outpatient,outpatient rehabilitation,202012,331
+cms_synthetic,outpatient,outpatient rehabilitation,202101,509
+cms_synthetic,outpatient,outpatient rehabilitation,202102,608
+cms_synthetic,outpatient,outpatient rehabilitation,202103,812
+cms_synthetic,outpatient,outpatient rehabilitation,202104,708
+cms_synthetic,outpatient,outpatient rehabilitation,202105,541
+cms_synthetic,outpatient,outpatient rehabilitation,202106,394
+cms_synthetic,outpatient,outpatient rehabilitation,202107,403
+cms_synthetic,outpatient,outpatient rehabilitation,202108,402
+cms_synthetic,outpatient,outpatient rehabilitation,202109,433
+cms_synthetic,outpatient,outpatient rehabilitation,202110,374
+cms_synthetic,outpatient,outpatient rehabilitation,202111,414
+cms_synthetic,outpatient,outpatient rehabilitation,202112,396
+cms_synthetic,outpatient,outpatient rehabilitation,202201,366
+cms_synthetic,outpatient,outpatient rehabilitation,202202,349
+cms_synthetic,outpatient,outpatient rehabilitation,202203,354
+cms_synthetic,outpatient,outpatient rehabilitation,202204,360
+cms_synthetic,outpatient,outpatient rehabilitation,202205,401
+cms_synthetic,outpatient,outpatient rehabilitation,202206,369
+cms_synthetic,outpatient,outpatient rehabilitation,202207,394
+cms_synthetic,outpatient,outpatient rehabilitation,202208,401
+cms_synthetic,outpatient,outpatient rehabilitation,202209,398
+cms_synthetic,outpatient,outpatient rehabilitation,202210,374
+cms_synthetic,outpatient,outpatient rehabilitation,202211,420
+cms_synthetic,outpatient,outpatient rehabilitation,202212,382
+cms_synthetic,outpatient,outpatient rehabilitation,202301,406
+cms_synthetic,outpatient,outpatient rehabilitation,202302,355
+cms_synthetic,outpatient,outpatient rehabilitation,202303,33
+cms_synthetic,outpatient,outpatient surgery,201503,28
+cms_synthetic,outpatient,outpatient surgery,201504,49
+cms_synthetic,outpatient,outpatient surgery,201505,54
+cms_synthetic,outpatient,outpatient surgery,201506,26
+cms_synthetic,outpatient,outpatient surgery,201507,43
+cms_synthetic,outpatient,outpatient surgery,201508,31
+cms_synthetic,outpatient,outpatient surgery,201509,30
+cms_synthetic,outpatient,outpatient surgery,201510,19
+cms_synthetic,outpatient,outpatient surgery,201511,47
+cms_synthetic,outpatient,outpatient surgery,201512,51
+cms_synthetic,outpatient,outpatient surgery,201601,52
+cms_synthetic,outpatient,outpatient surgery,201602,48
+cms_synthetic,outpatient,outpatient surgery,201603,34
+cms_synthetic,outpatient,outpatient surgery,201604,40
+cms_synthetic,outpatient,outpatient surgery,201605,56
+cms_synthetic,outpatient,outpatient surgery,201606,33
+cms_synthetic,outpatient,outpatient surgery,201607,46
+cms_synthetic,outpatient,outpatient surgery,201608,35
+cms_synthetic,outpatient,outpatient surgery,201609,31
+cms_synthetic,outpatient,outpatient surgery,201610,39
+cms_synthetic,outpatient,outpatient surgery,201611,26
+cms_synthetic,outpatient,outpatient surgery,201612,61
+cms_synthetic,outpatient,outpatient surgery,201701,67
+cms_synthetic,outpatient,outpatient surgery,201702,40
+cms_synthetic,outpatient,outpatient surgery,201703,49
+cms_synthetic,outpatient,outpatient surgery,201704,38
+cms_synthetic,outpatient,outpatient surgery,201705,45
+cms_synthetic,outpatient,outpatient surgery,201706,40
+cms_synthetic,outpatient,outpatient surgery,201707,46
+cms_synthetic,outpatient,outpatient surgery,201708,45
+cms_synthetic,outpatient,outpatient surgery,201709,42
+cms_synthetic,outpatient,outpatient surgery,201710,40
+cms_synthetic,outpatient,outpatient surgery,201711,38
+cms_synthetic,outpatient,outpatient surgery,201712,63
+cms_synthetic,outpatient,outpatient surgery,201801,53
+cms_synthetic,outpatient,outpatient surgery,201802,43
+cms_synthetic,outpatient,outpatient surgery,201803,51
+cms_synthetic,outpatient,outpatient surgery,201804,29
+cms_synthetic,outpatient,outpatient surgery,201805,46
+cms_synthetic,outpatient,outpatient surgery,201806,46
+cms_synthetic,outpatient,outpatient surgery,201807,44
+cms_synthetic,outpatient,outpatient surgery,201808,31
+cms_synthetic,outpatient,outpatient surgery,201809,44
+cms_synthetic,outpatient,outpatient surgery,201810,36
+cms_synthetic,outpatient,outpatient surgery,201811,64
+cms_synthetic,outpatient,outpatient surgery,201812,46
+cms_synthetic,outpatient,outpatient surgery,201901,65
+cms_synthetic,outpatient,outpatient surgery,201902,54
+cms_synthetic,outpatient,outpatient surgery,201903,57
+cms_synthetic,outpatient,outpatient surgery,201904,29
+cms_synthetic,outpatient,outpatient surgery,201905,56
+cms_synthetic,outpatient,outpatient surgery,201906,72
+cms_synthetic,outpatient,outpatient surgery,201907,33
+cms_synthetic,outpatient,outpatient surgery,201908,24
+cms_synthetic,outpatient,outpatient surgery,201909,48
+cms_synthetic,outpatient,outpatient surgery,201910,43
+cms_synthetic,outpatient,outpatient surgery,201911,40
+cms_synthetic,outpatient,outpatient surgery,201912,71
+cms_synthetic,outpatient,outpatient surgery,202001,47
+cms_synthetic,outpatient,outpatient surgery,202002,65
+cms_synthetic,outpatient,outpatient surgery,202003,71
+cms_synthetic,outpatient,outpatient surgery,202004,45
+cms_synthetic,outpatient,outpatient surgery,202005,63
+cms_synthetic,outpatient,outpatient surgery,202006,25
+cms_synthetic,outpatient,outpatient surgery,202007,51
+cms_synthetic,outpatient,outpatient surgery,202008,50
+cms_synthetic,outpatient,outpatient surgery,202009,33
+cms_synthetic,outpatient,outpatient surgery,202010,53
+cms_synthetic,outpatient,outpatient surgery,202011,47
+cms_synthetic,outpatient,outpatient surgery,202012,47
+cms_synthetic,outpatient,outpatient surgery,202101,69
+cms_synthetic,outpatient,outpatient surgery,202102,46
+cms_synthetic,outpatient,outpatient surgery,202103,80
+cms_synthetic,outpatient,outpatient surgery,202104,52
+cms_synthetic,outpatient,outpatient surgery,202105,55
+cms_synthetic,outpatient,outpatient surgery,202106,40
+cms_synthetic,outpatient,outpatient surgery,202107,55
+cms_synthetic,outpatient,outpatient surgery,202108,36
+cms_synthetic,outpatient,outpatient surgery,202109,62
+cms_synthetic,outpatient,outpatient surgery,202110,51
+cms_synthetic,outpatient,outpatient surgery,202111,59
+cms_synthetic,outpatient,outpatient surgery,202112,51
+cms_synthetic,outpatient,outpatient surgery,202201,85
+cms_synthetic,outpatient,outpatient surgery,202202,60
+cms_synthetic,outpatient,outpatient surgery,202203,58
+cms_synthetic,outpatient,outpatient surgery,202204,43
+cms_synthetic,outpatient,outpatient surgery,202205,62
+cms_synthetic,outpatient,outpatient surgery,202206,48
+cms_synthetic,outpatient,outpatient surgery,202207,43
+cms_synthetic,outpatient,outpatient surgery,202208,60
+cms_synthetic,outpatient,outpatient surgery,202209,50
+cms_synthetic,outpatient,outpatient surgery,202210,63
+cms_synthetic,outpatient,outpatient surgery,202211,42
+cms_synthetic,outpatient,outpatient surgery,202212,62
+cms_synthetic,outpatient,outpatient surgery,202301,88
+cms_synthetic,outpatient,outpatient surgery,202302,57
+cms_synthetic,outpatient,outpatient surgery,202303,5
+cms_synthetic,outpatient,outpatient surgery,202304,2
+cms_synthetic,outpatient,outpatient surgery,202309,1
+cms_synthetic,outpatient,outpatient surgery,202401,1
+cms_synthetic,outpatient,urgent care,201503,74
+cms_synthetic,outpatient,urgent care,201504,119
+cms_synthetic,outpatient,urgent care,201505,129
+cms_synthetic,outpatient,urgent care,201506,145
+cms_synthetic,outpatient,urgent care,201507,128
+cms_synthetic,outpatient,urgent care,201508,144
+cms_synthetic,outpatient,urgent care,201509,144
+cms_synthetic,outpatient,urgent care,201510,156
+cms_synthetic,outpatient,urgent care,201511,142
+cms_synthetic,outpatient,urgent care,201512,163
+cms_synthetic,outpatient,urgent care,201601,136
+cms_synthetic,outpatient,urgent care,201602,135
+cms_synthetic,outpatient,urgent care,201603,151
+cms_synthetic,outpatient,urgent care,201604,147
+cms_synthetic,outpatient,urgent care,201605,164
+cms_synthetic,outpatient,urgent care,201606,131
+cms_synthetic,outpatient,urgent care,201607,137
+cms_synthetic,outpatient,urgent care,201608,149
+cms_synthetic,outpatient,urgent care,201609,132
+cms_synthetic,outpatient,urgent care,201610,126
+cms_synthetic,outpatient,urgent care,201611,135
+cms_synthetic,outpatient,urgent care,201612,166
+cms_synthetic,outpatient,urgent care,201701,153
+cms_synthetic,outpatient,urgent care,201702,150
+cms_synthetic,outpatient,urgent care,201703,170
+cms_synthetic,outpatient,urgent care,201704,166
+cms_synthetic,outpatient,urgent care,201705,150
+cms_synthetic,outpatient,urgent care,201706,139
+cms_synthetic,outpatient,urgent care,201707,142
+cms_synthetic,outpatient,urgent care,201708,145
+cms_synthetic,outpatient,urgent care,201709,165
+cms_synthetic,outpatient,urgent care,201710,150
+cms_synthetic,outpatient,urgent care,201711,165
+cms_synthetic,outpatient,urgent care,201712,148
+cms_synthetic,outpatient,urgent care,201801,155
+cms_synthetic,outpatient,urgent care,201802,151
+cms_synthetic,outpatient,urgent care,201803,189
+cms_synthetic,outpatient,urgent care,201804,171
+cms_synthetic,outpatient,urgent care,201805,186
+cms_synthetic,outpatient,urgent care,201806,184
+cms_synthetic,outpatient,urgent care,201807,197
+cms_synthetic,outpatient,urgent care,201808,162
+cms_synthetic,outpatient,urgent care,201809,181
+cms_synthetic,outpatient,urgent care,201810,189
+cms_synthetic,outpatient,urgent care,201811,176
+cms_synthetic,outpatient,urgent care,201812,200
+cms_synthetic,outpatient,urgent care,201901,183
+cms_synthetic,outpatient,urgent care,201902,165
+cms_synthetic,outpatient,urgent care,201903,168
+cms_synthetic,outpatient,urgent care,201904,164
+cms_synthetic,outpatient,urgent care,201905,189
+cms_synthetic,outpatient,urgent care,201906,160
+cms_synthetic,outpatient,urgent care,201907,183
+cms_synthetic,outpatient,urgent care,201908,211
+cms_synthetic,outpatient,urgent care,201909,189
+cms_synthetic,outpatient,urgent care,201910,192
+cms_synthetic,outpatient,urgent care,201911,194
+cms_synthetic,outpatient,urgent care,201912,185
+cms_synthetic,outpatient,urgent care,202001,209
+cms_synthetic,outpatient,urgent care,202002,190
+cms_synthetic,outpatient,urgent care,202003,206
+cms_synthetic,outpatient,urgent care,202004,215
+cms_synthetic,outpatient,urgent care,202005,202
+cms_synthetic,outpatient,urgent care,202006,214
+cms_synthetic,outpatient,urgent care,202007,229
+cms_synthetic,outpatient,urgent care,202008,214
+cms_synthetic,outpatient,urgent care,202009,200
+cms_synthetic,outpatient,urgent care,202010,201
+cms_synthetic,outpatient,urgent care,202011,180
+cms_synthetic,outpatient,urgent care,202012,192
+cms_synthetic,outpatient,urgent care,202101,198
+cms_synthetic,outpatient,urgent care,202102,189
+cms_synthetic,outpatient,urgent care,202103,229
+cms_synthetic,outpatient,urgent care,202104,209
+cms_synthetic,outpatient,urgent care,202105,216
+cms_synthetic,outpatient,urgent care,202106,185
+cms_synthetic,outpatient,urgent care,202107,215
+cms_synthetic,outpatient,urgent care,202108,244
+cms_synthetic,outpatient,urgent care,202109,225
+cms_synthetic,outpatient,urgent care,202110,216
+cms_synthetic,outpatient,urgent care,202111,212
+cms_synthetic,outpatient,urgent care,202112,229
+cms_synthetic,outpatient,urgent care,202201,231
+cms_synthetic,outpatient,urgent care,202202,194
+cms_synthetic,outpatient,urgent care,202203,244
+cms_synthetic,outpatient,urgent care,202204,254
+cms_synthetic,outpatient,urgent care,202205,257
+cms_synthetic,outpatient,urgent care,202206,245
+cms_synthetic,outpatient,urgent care,202207,242
+cms_synthetic,outpatient,urgent care,202208,250
+cms_synthetic,outpatient,urgent care,202209,259
+cms_synthetic,outpatient,urgent care,202210,224
+cms_synthetic,outpatient,urgent care,202211,254
+cms_synthetic,outpatient,urgent care,202212,254
+cms_synthetic,outpatient,urgent care,202301,222
+cms_synthetic,outpatient,urgent care,202302,219
+cms_synthetic,outpatient,urgent care,202303,17
+medicare_lds,inpatient,acute inpatient,202001,519176
+medicare_lds,inpatient,acute inpatient,202002,535828
+medicare_lds,inpatient,acute inpatient,202003,485710
+medicare_lds,inpatient,acute inpatient,202004,394902
+medicare_lds,inpatient,acute inpatient,202005,455880
+medicare_lds,inpatient,acute inpatient,202006,478792
+medicare_lds,inpatient,acute inpatient,202007,504572
+medicare_lds,inpatient,acute inpatient,202008,500845
+medicare_lds,inpatient,acute inpatient,202009,493480
+medicare_lds,inpatient,acute inpatient,202010,520984
+medicare_lds,inpatient,acute inpatient,202011,503875
+medicare_lds,inpatient,acute inpatient,202012,428956
+medicare_lds,inpatient,inpatient hospice,202001,1081
+medicare_lds,inpatient,inpatient hospice,202002,1027
+medicare_lds,inpatient,inpatient hospice,202003,1050
+medicare_lds,inpatient,inpatient hospice,202004,1028
+medicare_lds,inpatient,inpatient hospice,202005,997
+medicare_lds,inpatient,inpatient hospice,202006,1035
+medicare_lds,inpatient,inpatient hospice,202007,1007
+medicare_lds,inpatient,inpatient hospice,202008,981
+medicare_lds,inpatient,inpatient hospice,202009,968
+medicare_lds,inpatient,inpatient hospice,202010,994
+medicare_lds,inpatient,inpatient hospice,202011,948
+medicare_lds,inpatient,inpatient hospice,202012,975
+medicare_lds,inpatient,inpatient psych,202001,406
+medicare_lds,inpatient,inpatient psych,202002,414
+medicare_lds,inpatient,inpatient psych,202003,345
+medicare_lds,inpatient,inpatient psych,202004,363
+medicare_lds,inpatient,inpatient psych,202005,333
+medicare_lds,inpatient,inpatient psych,202006,393
+medicare_lds,inpatient,inpatient psych,202007,347
+medicare_lds,inpatient,inpatient psych,202008,328
+medicare_lds,inpatient,inpatient psych,202009,332
+medicare_lds,inpatient,inpatient psych,202010,397
+medicare_lds,inpatient,inpatient psych,202011,356
+medicare_lds,inpatient,inpatient psych,202012,322
+medicare_lds,inpatient,inpatient rehabilitation,202001,37
+medicare_lds,inpatient,inpatient rehabilitation,202002,77
+medicare_lds,inpatient,inpatient rehabilitation,202003,41
+medicare_lds,inpatient,inpatient rehabilitation,202004,63
+medicare_lds,inpatient,inpatient rehabilitation,202005,93
+medicare_lds,inpatient,inpatient rehabilitation,202006,79
+medicare_lds,inpatient,inpatient rehabilitation,202007,48
+medicare_lds,inpatient,inpatient rehabilitation,202008,31
+medicare_lds,inpatient,inpatient rehabilitation,202009,67
+medicare_lds,inpatient,inpatient rehabilitation,202010,146
+medicare_lds,inpatient,inpatient rehabilitation,202011,82
+medicare_lds,inpatient,inpatient rehabilitation,202012,63
+medicare_lds,inpatient,inpatient skilled nursing,202001,100512
+medicare_lds,inpatient,inpatient skilled nursing,202002,111407
+medicare_lds,inpatient,inpatient skilled nursing,202003,115504
+medicare_lds,inpatient,inpatient skilled nursing,202004,101452
+medicare_lds,inpatient,inpatient skilled nursing,202005,101727
+medicare_lds,inpatient,inpatient skilled nursing,202006,109079
+medicare_lds,inpatient,inpatient skilled nursing,202007,112967
+medicare_lds,inpatient,inpatient skilled nursing,202008,106420
+medicare_lds,inpatient,inpatient skilled nursing,202009,114589
+medicare_lds,inpatient,inpatient skilled nursing,202010,125313
+medicare_lds,inpatient,inpatient skilled nursing,202011,112155
+medicare_lds,inpatient,inpatient skilled nursing,202012,111659
+medicare_lds,office based,office visit,202001,905084
+medicare_lds,office based,office visit,202002,796790
+medicare_lds,office based,office visit,202003,627552
+medicare_lds,office based,office visit,202004,425471
+medicare_lds,office based,office visit,202005,579871
+medicare_lds,office based,office visit,202006,788023
+medicare_lds,office based,office visit,202007,770474
+medicare_lds,office based,office visit,202008,739545
+medicare_lds,office based,office visit,202009,794678
+medicare_lds,office based,office visit,202010,798871
+medicare_lds,office based,office visit,202011,710543
+medicare_lds,office based,office visit,202012,731612
+medicare_lds,office based,office visit - other,202001,344438
+medicare_lds,office based,office visit - other,202002,305276
+medicare_lds,office based,office visit - other,202003,268861
+medicare_lds,office based,office visit - other,202004,237777
+medicare_lds,office based,office visit - other,202005,298053
+medicare_lds,office based,office visit - other,202006,362768
+medicare_lds,office based,office visit - other,202007,352345
+medicare_lds,office based,office visit - other,202008,337271
+medicare_lds,office based,office visit - other,202009,380915
+medicare_lds,office based,office visit - other,202010,402909
+medicare_lds,office based,office visit - other,202011,328570
+medicare_lds,office based,office visit - other,202012,337143
+medicare_lds,office based,office visit injections,202001,70744
+medicare_lds,office based,office visit injections,202002,63694
+medicare_lds,office based,office visit injections,202003,56724
+medicare_lds,office based,office visit injections,202004,42468
+medicare_lds,office based,office visit injections,202005,48725
+medicare_lds,office based,office visit injections,202006,58168
+medicare_lds,office based,office visit injections,202007,57679
+medicare_lds,office based,office visit injections,202008,54331
+medicare_lds,office based,office visit injections,202009,57272
+medicare_lds,office based,office visit injections,202010,56824
+medicare_lds,office based,office visit injections,202011,51081
+medicare_lds,office based,office visit injections,202012,57167
+medicare_lds,office based,office visit pt/ot/st,202001,192529
+medicare_lds,office based,office visit pt/ot/st,202002,185038
+medicare_lds,office based,office visit pt/ot/st,202003,137222
+medicare_lds,office based,office visit pt/ot/st,202004,59916
+medicare_lds,office based,office visit pt/ot/st,202005,78583
+medicare_lds,office based,office visit pt/ot/st,202006,122163
+medicare_lds,office based,office visit pt/ot/st,202007,144892
+medicare_lds,office based,office visit pt/ot/st,202008,147325
+medicare_lds,office based,office visit pt/ot/st,202009,160303
+medicare_lds,office based,office visit pt/ot/st,202010,169587
+medicare_lds,office based,office visit pt/ot/st,202011,151923
+medicare_lds,office based,office visit pt/ot/st,202012,150840
+medicare_lds,office based,office visit radiology,202001,176394
+medicare_lds,office based,office visit radiology,202002,157475
+medicare_lds,office based,office visit radiology,202003,121882
+medicare_lds,office based,office visit radiology,202004,62075
+medicare_lds,office based,office visit radiology,202005,105620
+medicare_lds,office based,office visit radiology,202006,154328
+medicare_lds,office based,office visit radiology,202007,152444
+medicare_lds,office based,office visit radiology,202008,147889
+medicare_lds,office based,office visit radiology,202009,156358
+medicare_lds,office based,office visit radiology,202010,162057
+medicare_lds,office based,office visit radiology,202011,141173
+medicare_lds,office based,office visit radiology,202012,143484
+medicare_lds,office based,office visit surgery,202001,237364
+medicare_lds,office based,office visit surgery,202002,207999
+medicare_lds,office based,office visit surgery,202003,161482
+medicare_lds,office based,office visit surgery,202004,84320
+medicare_lds,office based,office visit surgery,202005,152847
+medicare_lds,office based,office visit surgery,202006,216322
+medicare_lds,office based,office visit surgery,202007,207145
+medicare_lds,office based,office visit surgery,202008,201962
+medicare_lds,office based,office visit surgery,202009,214819
+medicare_lds,office based,office visit surgery,202010,211529
+medicare_lds,office based,office visit surgery,202011,186928
+medicare_lds,office based,office visit surgery,202012,193627
+medicare_lds,office based,telehealth,202001,2735
+medicare_lds,office based,telehealth,202002,2260
+medicare_lds,office based,telehealth,202003,39182
+medicare_lds,office based,telehealth,202004,77548
+medicare_lds,office based,telehealth,202005,46339
+medicare_lds,office based,telehealth,202006,36600
+medicare_lds,office based,telehealth,202007,33922
+medicare_lds,office based,telehealth,202008,30184
+medicare_lds,office based,telehealth,202009,29183
+medicare_lds,office based,telehealth,202010,28386
+medicare_lds,office based,telehealth,202011,27709
+medicare_lds,office based,telehealth,202012,32430
+medicare_lds,other,ambulance - orphaned,202001,1870
+medicare_lds,other,ambulance - orphaned,202002,1414
+medicare_lds,other,ambulance - orphaned,202003,1363
+medicare_lds,other,ambulance - orphaned,202004,1268
+medicare_lds,other,ambulance - orphaned,202005,1372
+medicare_lds,other,ambulance - orphaned,202006,1450
+medicare_lds,other,ambulance - orphaned,202007,1546
+medicare_lds,other,ambulance - orphaned,202008,1686
+medicare_lds,other,ambulance - orphaned,202009,1560
+medicare_lds,other,ambulance - orphaned,202010,1618
+medicare_lds,other,ambulance - orphaned,202011,1728
+medicare_lds,other,ambulance - orphaned,202012,1927
+medicare_lds,other,dme - orphaned,202001,70716
+medicare_lds,other,dme - orphaned,202002,67087
+medicare_lds,other,dme - orphaned,202003,67687
+medicare_lds,other,dme - orphaned,202004,67972
+medicare_lds,other,dme - orphaned,202005,67069
+medicare_lds,other,dme - orphaned,202006,66396
+medicare_lds,other,dme - orphaned,202007,66332
+medicare_lds,other,dme - orphaned,202008,66069
+medicare_lds,other,dme - orphaned,202009,65000
+medicare_lds,other,dme - orphaned,202010,64980
+medicare_lds,other,dme - orphaned,202011,64974
+medicare_lds,other,dme - orphaned,202012,65254
+medicare_lds,other,lab - orphaned,202001,326795
+medicare_lds,other,lab - orphaned,202002,285777
+medicare_lds,other,lab - orphaned,202003,236387
+medicare_lds,other,lab - orphaned,202004,162978
+medicare_lds,other,lab - orphaned,202005,249903
+medicare_lds,other,lab - orphaned,202006,336535
+medicare_lds,other,lab - orphaned,202007,335661
+medicare_lds,other,lab - orphaned,202008,313713
+medicare_lds,other,lab - orphaned,202009,332511
+medicare_lds,other,lab - orphaned,202010,344781
+medicare_lds,other,lab - orphaned,202011,328803
+medicare_lds,other,lab - orphaned,202012,352599
+medicare_lds,other,orphaned claim,202001,246753
+medicare_lds,other,orphaned claim,202002,147919
+medicare_lds,other,orphaned claim,202003,139953
+medicare_lds,other,orphaned claim,202004,123125
+medicare_lds,other,orphaned claim,202005,123201
+medicare_lds,other,orphaned claim,202006,132952
+medicare_lds,other,orphaned claim,202007,139086
+medicare_lds,other,orphaned claim,202008,134442
+medicare_lds,other,orphaned claim,202009,138397
+medicare_lds,other,orphaned claim,202010,143399
+medicare_lds,other,orphaned claim,202011,133523
+medicare_lds,other,orphaned claim,202012,209515
+medicare_lds,outpatient,ambulatory surgery center,202001,78152
+medicare_lds,outpatient,ambulatory surgery center,202002,74131
+medicare_lds,outpatient,ambulatory surgery center,202003,51029
+medicare_lds,outpatient,ambulatory surgery center,202004,11148
+medicare_lds,outpatient,ambulatory surgery center,202005,40422
+medicare_lds,outpatient,ambulatory surgery center,202006,68919
+medicare_lds,outpatient,ambulatory surgery center,202007,70784
+medicare_lds,outpatient,ambulatory surgery center,202008,70178
+medicare_lds,outpatient,ambulatory surgery center,202009,72716
+medicare_lds,outpatient,ambulatory surgery center,202010,77030
+medicare_lds,outpatient,ambulatory surgery center,202011,67702
+medicare_lds,outpatient,ambulatory surgery center,202012,66742
+medicare_lds,outpatient,dialysis,202001,59907
+medicare_lds,outpatient,dialysis,202002,54857
+medicare_lds,outpatient,dialysis,202003,54187
+medicare_lds,outpatient,dialysis,202004,53457
+medicare_lds,outpatient,dialysis,202005,52750
+medicare_lds,outpatient,dialysis,202006,56169
+medicare_lds,outpatient,dialysis,202007,58189
+medicare_lds,outpatient,dialysis,202008,55435
+medicare_lds,outpatient,dialysis,202009,55947
+medicare_lds,outpatient,dialysis,202010,56812
+medicare_lds,outpatient,dialysis,202011,53426
+medicare_lds,outpatient,dialysis,202012,54683
+medicare_lds,outpatient,emergency department,202001,297222
+medicare_lds,outpatient,emergency department,202002,270647
+medicare_lds,outpatient,emergency department,202003,224377
+medicare_lds,outpatient,emergency department,202004,154726
+medicare_lds,outpatient,emergency department,202005,197822
+medicare_lds,outpatient,emergency department,202006,222859
+medicare_lds,outpatient,emergency department,202007,234337
+medicare_lds,outpatient,emergency department,202008,236478
+medicare_lds,outpatient,emergency department,202009,235817
+medicare_lds,outpatient,emergency department,202010,241397
+medicare_lds,outpatient,emergency department,202011,228550
+medicare_lds,outpatient,emergency department,202012,255771
+medicare_lds,outpatient,home health,202001,171455
+medicare_lds,outpatient,home health,202002,190295
+medicare_lds,outpatient,home health,202003,204175
+medicare_lds,outpatient,home health,202004,194512
+medicare_lds,outpatient,home health,202005,200120
+medicare_lds,outpatient,home health,202006,219002
+medicare_lds,outpatient,home health,202007,223356
+medicare_lds,outpatient,home health,202008,217287
+medicare_lds,outpatient,home health,202009,224291
+medicare_lds,outpatient,home health,202010,229396
+medicare_lds,outpatient,home health,202011,211387
+medicare_lds,outpatient,home health,202012,187117
+medicare_lds,outpatient,outpatient hospice,202001,13995
+medicare_lds,outpatient,outpatient hospice,202002,13178
+medicare_lds,outpatient,outpatient hospice,202003,13310
+medicare_lds,outpatient,outpatient hospice,202004,13156
+medicare_lds,outpatient,outpatient hospice,202005,12977
+medicare_lds,outpatient,outpatient hospice,202006,12923
+medicare_lds,outpatient,outpatient hospice,202007,13249
+medicare_lds,outpatient,outpatient hospice,202008,13312
+medicare_lds,outpatient,outpatient hospice,202009,12966
+medicare_lds,outpatient,outpatient hospice,202010,13176
+medicare_lds,outpatient,outpatient hospice,202011,12919
+medicare_lds,outpatient,outpatient hospice,202012,13127
+medicare_lds,outpatient,outpatient hospital or clinic,202001,649066
+medicare_lds,outpatient,outpatient hospital or clinic,202002,561801
+medicare_lds,outpatient,outpatient hospital or clinic,202003,441719
+medicare_lds,outpatient,outpatient hospital or clinic,202004,270197
+medicare_lds,outpatient,outpatient hospital or clinic,202005,399167
+medicare_lds,outpatient,outpatient hospital or clinic,202006,563994
+medicare_lds,outpatient,outpatient hospital or clinic,202007,569952
+medicare_lds,outpatient,outpatient hospital or clinic,202008,600005
+medicare_lds,outpatient,outpatient hospital or clinic,202009,789165
+medicare_lds,outpatient,outpatient hospital or clinic,202010,790671
+medicare_lds,outpatient,outpatient hospital or clinic,202011,570446
+medicare_lds,outpatient,outpatient hospital or clinic,202012,558853
+medicare_lds,outpatient,outpatient injections,202001,54294
+medicare_lds,outpatient,outpatient injections,202002,48575
+medicare_lds,outpatient,outpatient injections,202003,38363
+medicare_lds,outpatient,outpatient injections,202004,19352
+medicare_lds,outpatient,outpatient injections,202005,32192
+medicare_lds,outpatient,outpatient injections,202006,47436
+medicare_lds,outpatient,outpatient injections,202007,46884
+medicare_lds,outpatient,outpatient injections,202008,45178
+medicare_lds,outpatient,outpatient injections,202009,48169
+medicare_lds,outpatient,outpatient injections,202010,50158
+medicare_lds,outpatient,outpatient injections,202011,43673
+medicare_lds,outpatient,outpatient injections,202012,43738
+medicare_lds,outpatient,outpatient psych,202001,7813
+medicare_lds,outpatient,outpatient psych,202002,7004
+medicare_lds,outpatient,outpatient psych,202003,6192
+medicare_lds,outpatient,outpatient psych,202004,4771
+medicare_lds,outpatient,outpatient psych,202005,5263
+medicare_lds,outpatient,outpatient psych,202006,6310
+medicare_lds,outpatient,outpatient psych,202007,6431
+medicare_lds,outpatient,outpatient psych,202008,7040
+medicare_lds,outpatient,outpatient psych,202009,7033
+medicare_lds,outpatient,outpatient psych,202010,7572
+medicare_lds,outpatient,outpatient psych,202011,7261
+medicare_lds,outpatient,outpatient psych,202012,7154
+medicare_lds,outpatient,outpatient pt/ot/st,202001,41540
+medicare_lds,outpatient,outpatient pt/ot/st,202002,39965
+medicare_lds,outpatient,outpatient pt/ot/st,202003,32702
+medicare_lds,outpatient,outpatient pt/ot/st,202004,12679
+medicare_lds,outpatient,outpatient pt/ot/st,202005,17472
+medicare_lds,outpatient,outpatient pt/ot/st,202006,27025
+medicare_lds,outpatient,outpatient pt/ot/st,202007,31789
+medicare_lds,outpatient,outpatient pt/ot/st,202008,32805
+medicare_lds,outpatient,outpatient pt/ot/st,202009,35639
+medicare_lds,outpatient,outpatient pt/ot/st,202010,36312
+medicare_lds,outpatient,outpatient pt/ot/st,202011,32136
+medicare_lds,outpatient,outpatient pt/ot/st,202012,31327
+medicare_lds,outpatient,outpatient radiology,202001,208521
+medicare_lds,outpatient,outpatient radiology,202002,181282
+medicare_lds,outpatient,outpatient radiology,202003,134155
+medicare_lds,outpatient,outpatient radiology,202004,52639
+medicare_lds,outpatient,outpatient radiology,202005,113612
+medicare_lds,outpatient,outpatient radiology,202006,183108
+medicare_lds,outpatient,outpatient radiology,202007,186223
+medicare_lds,outpatient,outpatient radiology,202008,178300
+medicare_lds,outpatient,outpatient radiology,202009,186736
+medicare_lds,outpatient,outpatient radiology,202010,192554
+medicare_lds,outpatient,outpatient radiology,202011,165741
+medicare_lds,outpatient,outpatient radiology,202012,167354
+medicare_lds,outpatient,outpatient rehabilitation,202001,7868
+medicare_lds,outpatient,outpatient rehabilitation,202002,8120
+medicare_lds,outpatient,outpatient rehabilitation,202003,6485
+medicare_lds,outpatient,outpatient rehabilitation,202004,2835
+medicare_lds,outpatient,outpatient rehabilitation,202005,3699
+medicare_lds,outpatient,outpatient rehabilitation,202006,5158
+medicare_lds,outpatient,outpatient rehabilitation,202007,6000
+medicare_lds,outpatient,outpatient rehabilitation,202008,6334
+medicare_lds,outpatient,outpatient rehabilitation,202009,7097
+medicare_lds,outpatient,outpatient rehabilitation,202010,7353
+medicare_lds,outpatient,outpatient rehabilitation,202011,6634
+medicare_lds,outpatient,outpatient rehabilitation,202012,6710
+medicare_lds,outpatient,outpatient surgery,202001,156945
+medicare_lds,outpatient,outpatient surgery,202002,140274
+medicare_lds,outpatient,outpatient surgery,202003,114024
+medicare_lds,outpatient,outpatient surgery,202004,61046
+medicare_lds,outpatient,outpatient surgery,202005,98493
+medicare_lds,outpatient,outpatient surgery,202006,138836
+medicare_lds,outpatient,outpatient surgery,202007,139936
+medicare_lds,outpatient,outpatient surgery,202008,134959
+medicare_lds,outpatient,outpatient surgery,202009,142238
+medicare_lds,outpatient,outpatient surgery,202010,145861
+medicare_lds,outpatient,outpatient surgery,202011,126954
+medicare_lds,outpatient,outpatient surgery,202012,130037
+medicare_lds,outpatient,urgent care,202001,24392
+medicare_lds,outpatient,urgent care,202002,21276
+medicare_lds,outpatient,urgent care,202003,15472
+medicare_lds,outpatient,urgent care,202004,10434
+medicare_lds,outpatient,urgent care,202005,18368
+medicare_lds,outpatient,urgent care,202006,22136
+medicare_lds,outpatient,urgent care,202007,25858
+medicare_lds,outpatient,urgent care,202008,23267
+medicare_lds,outpatient,urgent care,202009,24188
+medicare_lds,outpatient,urgent care,202010,29635
+medicare_lds,outpatient,urgent care,202011,32618
+medicare_lds,outpatient,urgent care,202012,36350
